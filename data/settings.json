@@ -1,0 +1,26 @@
+{
+    
+        "RPC": {
+            "starknet"  : ["https://starknet-mainnet.public.blastapi.io/rpc/v0_6"]
+        },
+
+
+        "===== Download Settings =====":"",
+            "LoaderDisk"  : "E:",
+            "DecryptType" : "Password", 
+        
+        "===== SOFT MODE ===== ": "",
+            "useProxies": true,
+            "tip": 0,
+            "claim": true,
+            "send": true,
+            "ErrorSleepeng": [2, 3],
+            "ThreadRunnerSleep": [2, 3],
+            "captcha_token": "60761da5c4d2d470da5c9071cc0d4c63",
+            "RetriesLimit": 4,
+            "Provider": "argent",
+            "MaxFee": 1,
+        "========= END =========": ""
+        
+    
+}

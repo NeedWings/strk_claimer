@@ -1,0 +1,22 @@
+0x05f0fcc665e8f42e7e98f0118b0548a8ea563c95cf08abbdf01b427f8d96596e:
+[ERROR] [1/1]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/claim')
+[INFO] [1/1]  sleeping 2 s
+[ERROR] [1/1]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/claim')
+[INFO] [1/1]  sleeping 2 s
+[ERROR] [1/1]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/claim')
+[INFO] [1/1]  sleeping 2 s
+[ERROR] [1/1]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/claim')
+[INFO] [1/1]  sleeping 2 s
+[ERROR] [1/1]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/claim')
+[INFO] [1/1]  sleeping 2 s
+[ERROR] [1/1]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/claim')
+[INFO] [1/1]  sleeping 3 s
+[ERROR] [1/1]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/claim')
+[INFO] [1/1]  sleeping 3 s
+[ERROR] [1/1]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/claim')
+[INFO] [1/1]  sleeping 3 s
+[ERROR] [1/1]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/claim')
+[INFO] [1/1]  sleeping 2 s
+[ERROR] [1/1]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/claim')
+[INFO] [1/1]  sleeping 2 s
+

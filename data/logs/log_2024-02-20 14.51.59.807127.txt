@@ -1,0 +1,1382 @@
+0x025e12c7eeec19122c1ed5753d59a69c2543d17d7b3402d046a5c172d479094f:
+[ERROR] [1/1]  can't find pair. Skip
+[ERROR] [1/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x025e12c7eeec19122c1ed5753d59a69c2543d17d7b3402d046a5c172d479094f')
+[INFO] [1/200]  sleeping 1 s
+
+0x07e223c10d54838d779be2cdf553231b3f7014e8d2f341d9ea4011d5c978befc:
+[ERROR] [2/2]  can't find pair. Skip
+[ERROR] [2/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07e223c10d54838d779be2cdf553231b3f7014e8d2f341d9ea4011d5c978befc')
+[INFO] [2/200]  sleeping 1 s
+[ERROR] [2/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07e223c10d54838d779be2cdf553231b3f7014e8d2f341d9ea4011d5c978befc')
+[INFO] [2/200]  sleeping 2 s
+
+0x0103172836e8d6e1464f9fc4cd52d8a87bf56123f7f72334d76dad04ff47596f:
+[ERROR] [3/3]  can't find pair. Skip
+[ERROR] [3/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0103172836e8d6e1464f9fc4cd52d8a87bf56123f7f72334d76dad04ff47596f')
+[INFO] [3/200]  sleeping 2 s
+[ERROR] [3/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0103172836e8d6e1464f9fc4cd52d8a87bf56123f7f72334d76dad04ff47596f')
+[INFO] [3/200]  sleeping 2 s
+
+0x06f2232e89a6e042f5072057cc7dc6041ee904668d860eabab1d40bd954a7d49:
+[ERROR] [4/4]  can't find pair. Skip
+[ERROR] [4/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06f2232e89a6e042f5072057cc7dc6041ee904668d860eabab1d40bd954a7d49')
+[INFO] [4/200]  sleeping 2 s
+[ERROR] [4/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06f2232e89a6e042f5072057cc7dc6041ee904668d860eabab1d40bd954a7d49')
+[INFO] [4/200]  sleeping 1 s
+
+0x01c5e37834fc967bb5153f34d08e92fb27c30319b5ec3ab7a42ca52f52a45c4a:
+[ERROR] [5/5]  can't find pair. Skip
+
+0x03c4b7be2ee78cf4500ab0d01498965f02044ee77b539f1c077aa9c623285980:
+[ERROR] [6/6]  can't find pair. Skip
+[ERROR] [6/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x03c4b7be2ee78cf4500ab0d01498965f02044ee77b539f1c077aa9c623285980')
+[INFO] [6/200]  sleeping 1 s
+
+0x07f5032a26263882928f7606a778b634f4411e5d76781ce1e5c4f696f4299c22:
+[ERROR] [7/7]  can't find pair. Skip
+
+0x06be8073fc2f6cf404f0669e9bc317a9b783653c863a594adb376272931b1e3d:
+[ERROR] [8/8]  can't find pair. Skip
+[ERROR] [8/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06be8073fc2f6cf404f0669e9bc317a9b783653c863a594adb376272931b1e3d')
+[INFO] [8/200]  sleeping 2 s
+[ERROR] [8/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06be8073fc2f6cf404f0669e9bc317a9b783653c863a594adb376272931b1e3d')
+[INFO] [8/200]  sleeping 1 s
+
+0x01592ba5ded9222724d2cc38bfa2cb5e63bf1cdd2a51e9e2cfea53ac0ce3730a:
+[ERROR] [9/9]  can't find pair. Skip
+[ERROR] [9/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01592ba5ded9222724d2cc38bfa2cb5e63bf1cdd2a51e9e2cfea53ac0ce3730a')
+[INFO] [9/200]  sleeping 1 s
+
+0x0783414b96c8c807649cf893ac7d42ff961d6443258a184350e0feeaa6784a9e:
+[ERROR] [10/10]  can't find pair. Skip
+[ERROR] [10/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0783414b96c8c807649cf893ac7d42ff961d6443258a184350e0feeaa6784a9e')
+[INFO] [10/200]  sleeping 2 s
+[ERROR] [10/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0783414b96c8c807649cf893ac7d42ff961d6443258a184350e0feeaa6784a9e')
+[INFO] [10/200]  sleeping 1 s
+
+0x06319fe1f0fdb04586d6fbc2c21207b07dd1b0dd67466b33319d3286b262493e:
+[ERROR] [11/11]  can't find pair. Skip
+[ERROR] [11/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06319fe1f0fdb04586d6fbc2c21207b07dd1b0dd67466b33319d3286b262493e')
+[INFO] [11/200]  sleeping 2 s
+[ERROR] [11/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06319fe1f0fdb04586d6fbc2c21207b07dd1b0dd67466b33319d3286b262493e')
+[INFO] [11/200]  sleeping 2 s
+
+0x029161b1a8c71a0e534691142c403e1c8835c9d97819216d39f7406f8b773a77:
+[ERROR] [12/12]  can't find pair. Skip
+
+0x04cb0a0bd8c478031d0a4cc4fb21f07cd2acdcee1997aa952df7f44985b0d998:
+[ERROR] [13/13]  can't find pair. Skip
+[ERROR] [13/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04cb0a0bd8c478031d0a4cc4fb21f07cd2acdcee1997aa952df7f44985b0d998')
+[INFO] [13/200]  sleeping 2 s
+[ERROR] [13/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04cb0a0bd8c478031d0a4cc4fb21f07cd2acdcee1997aa952df7f44985b0d998')
+[INFO] [13/200]  sleeping 2 s
+
+0x0798b24ac959d62ac5a3850fc1f4cb2b44f1be004bdda793816325bf5e970410:
+[ERROR] [14/14]  can't find pair. Skip
+[ERROR] [14/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0798b24ac959d62ac5a3850fc1f4cb2b44f1be004bdda793816325bf5e970410')
+[INFO] [14/200]  sleeping 2 s
+[ERROR] [14/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0798b24ac959d62ac5a3850fc1f4cb2b44f1be004bdda793816325bf5e970410')
+[INFO] [14/200]  sleeping 1 s
+
+0x03b934dc8e1d5797cfa9e5f2053d188d2d3fa84670ba759e1af8e3b44458c8f7:
+[ERROR] [15/15]  can't find pair. Skip
+[ERROR] [15/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x03b934dc8e1d5797cfa9e5f2053d188d2d3fa84670ba759e1af8e3b44458c8f7')
+[INFO] [15/200]  sleeping 1 s
+[ERROR] [15/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x03b934dc8e1d5797cfa9e5f2053d188d2d3fa84670ba759e1af8e3b44458c8f7')
+[INFO] [15/200]  sleeping 2 s
+
+0x011747c90f8c4dea5220e3d77ae9c80df26c9821d9d0ffbfb148eef6057e0b04:
+[ERROR] [16/16]  can't find pair. Skip
+[ERROR] [16/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x011747c90f8c4dea5220e3d77ae9c80df26c9821d9d0ffbfb148eef6057e0b04')
+[INFO] [16/200]  sleeping 2 s
+[ERROR] [16/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x011747c90f8c4dea5220e3d77ae9c80df26c9821d9d0ffbfb148eef6057e0b04')
+[INFO] [16/200]  sleeping 2 s
+
+0x03c283e33b10c0a9a6bc743d164d335b6658615572aa247c96fddb215e0f98aa:
+[ERROR] [17/17]  can't find pair. Skip
+[ERROR] [17/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x03c283e33b10c0a9a6bc743d164d335b6658615572aa247c96fddb215e0f98aa')
+[INFO] [17/200]  sleeping 1 s
+[ERROR] [17/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x03c283e33b10c0a9a6bc743d164d335b6658615572aa247c96fddb215e0f98aa')
+[INFO] [17/200]  sleeping 2 s
+
+0x0053ae7c2133ccac4080dd78c9e44901359bba4c78b02942470271f7736745dc:
+[ERROR] [18/18]  can't find pair. Skip
+[ERROR] [18/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0053ae7c2133ccac4080dd78c9e44901359bba4c78b02942470271f7736745dc')
+[INFO] [18/200]  sleeping 1 s
+[ERROR] [18/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0053ae7c2133ccac4080dd78c9e44901359bba4c78b02942470271f7736745dc')
+[INFO] [18/200]  sleeping 1 s
+
+0x06007c9867da99b23fe7ec31d902938c244ef1c087c3334a1727e975ebb79a39:
+[ERROR] [19/19]  can't find pair. Skip
+[ERROR] [19/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06007c9867da99b23fe7ec31d902938c244ef1c087c3334a1727e975ebb79a39')
+[INFO] [19/200]  sleeping 1 s
+[ERROR] [19/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06007c9867da99b23fe7ec31d902938c244ef1c087c3334a1727e975ebb79a39')
+[INFO] [19/200]  sleeping 2 s
+
+0x01d7a91d7d8c77f68a352eb7b98f2548fd889d21942381931ad3ffbe2287403e:
+[ERROR] [20/20]  can't find pair. Skip
+[ERROR] [20/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01d7a91d7d8c77f68a352eb7b98f2548fd889d21942381931ad3ffbe2287403e')
+[INFO] [20/200]  sleeping 2 s
+[ERROR] [20/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01d7a91d7d8c77f68a352eb7b98f2548fd889d21942381931ad3ffbe2287403e')
+[INFO] [20/200]  sleeping 1 s
+
+0x026262846ca8d79773c4d3ac1be47876970356e37125fba4b69020888454820c:
+[ERROR] [21/21]  can't find pair. Skip
+[ERROR] [21/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x026262846ca8d79773c4d3ac1be47876970356e37125fba4b69020888454820c')
+[INFO] [21/200]  sleeping 1 s
+[ERROR] [21/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x026262846ca8d79773c4d3ac1be47876970356e37125fba4b69020888454820c')
+[INFO] [21/200]  sleeping 1 s
+
+0x06199e24f161c12cf6e15ddfd87152644ffdd9e3b2c081d40f768c09477e0073:
+[ERROR] [22/22]  can't find pair. Skip
+[ERROR] [22/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06199e24f161c12cf6e15ddfd87152644ffdd9e3b2c081d40f768c09477e0073')
+[INFO] [22/200]  sleeping 1 s
+[ERROR] [22/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06199e24f161c12cf6e15ddfd87152644ffdd9e3b2c081d40f768c09477e0073')
+[INFO] [22/200]  sleeping 1 s
+
+0x056113515a96ee43bde43657f80114cae0e1565419c8719247ae325103d0c90f:
+[ERROR] [23/23]  can't find pair. Skip
+[ERROR] [23/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x056113515a96ee43bde43657f80114cae0e1565419c8719247ae325103d0c90f')
+[INFO] [23/200]  sleeping 1 s
+[ERROR] [23/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x056113515a96ee43bde43657f80114cae0e1565419c8719247ae325103d0c90f')
+[INFO] [23/200]  sleeping 2 s
+
+0x07d6836b77d77da5d41279bb52f89b8bccd159e3b1cbdc30ac454d4559e574a4:
+[ERROR] [24/24]  can't find pair. Skip
+[ERROR] [24/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07d6836b77d77da5d41279bb52f89b8bccd159e3b1cbdc30ac454d4559e574a4')
+[INFO] [24/200]  sleeping 1 s
+[ERROR] [24/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07d6836b77d77da5d41279bb52f89b8bccd159e3b1cbdc30ac454d4559e574a4')
+[INFO] [24/200]  sleeping 1 s
+
+0x02a61b5efb48392d9a213cf400d408904eeb1bdfc83e7ad3767222ae8dbdec46:
+[ERROR] [25/25]  can't find pair. Skip
+[ERROR] [25/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02a61b5efb48392d9a213cf400d408904eeb1bdfc83e7ad3767222ae8dbdec46')
+[INFO] [25/200]  sleeping 1 s
+[ERROR] [25/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02a61b5efb48392d9a213cf400d408904eeb1bdfc83e7ad3767222ae8dbdec46')
+[INFO] [25/200]  sleeping 2 s
+
+0x07bfc49024b9582d221c2e91cc1eea2c49936a33d3e8bd3a6329f27540c67e58:
+[ERROR] [26/26]  can't find pair. Skip
+[ERROR] [26/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07bfc49024b9582d221c2e91cc1eea2c49936a33d3e8bd3a6329f27540c67e58')
+[INFO] [26/200]  sleeping 1 s
+[ERROR] [26/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07bfc49024b9582d221c2e91cc1eea2c49936a33d3e8bd3a6329f27540c67e58')
+[INFO] [26/200]  sleeping 1 s
+
+0x0760e223655fb53e7effd3638973bfd86c29abfeb888678c23bde300b0b422ef:
+[ERROR] [27/27]  can't find pair. Skip
+[ERROR] [27/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0760e223655fb53e7effd3638973bfd86c29abfeb888678c23bde300b0b422ef')
+[INFO] [27/200]  sleeping 2 s
+[ERROR] [27/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0760e223655fb53e7effd3638973bfd86c29abfeb888678c23bde300b0b422ef')
+[INFO] [27/200]  sleeping 2 s
+
+0x01b76b2dbf54276c5ff2b4fddf3dd420a72715fd549a1f00beb5a8d8ab242ce5:
+[ERROR] [28/28]  can't find pair. Skip
+[ERROR] [28/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01b76b2dbf54276c5ff2b4fddf3dd420a72715fd549a1f00beb5a8d8ab242ce5')
+[INFO] [28/200]  sleeping 1 s
+[ERROR] [28/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01b76b2dbf54276c5ff2b4fddf3dd420a72715fd549a1f00beb5a8d8ab242ce5')
+[INFO] [28/200]  sleeping 1 s
+
+0x03dc631503dc43316cceb05d8ed5376bef1ec11c77d9a322d9c75e069fd19d15:
+[ERROR] [29/29]  can't find pair. Skip
+[ERROR] [29/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x03dc631503dc43316cceb05d8ed5376bef1ec11c77d9a322d9c75e069fd19d15')
+[INFO] [29/200]  sleeping 2 s
+[ERROR] [29/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x03dc631503dc43316cceb05d8ed5376bef1ec11c77d9a322d9c75e069fd19d15')
+[INFO] [29/200]  sleeping 1 s
+
+0x04c390d55d4a8a3770d578aa13d7b40e6b237712eb7f729bc3542a0477f02a16:
+[ERROR] [30/30]  can't find pair. Skip
+[ERROR] [30/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04c390d55d4a8a3770d578aa13d7b40e6b237712eb7f729bc3542a0477f02a16')
+[INFO] [30/200]  sleeping 1 s
+[ERROR] [30/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04c390d55d4a8a3770d578aa13d7b40e6b237712eb7f729bc3542a0477f02a16')
+[INFO] [30/200]  sleeping 2 s
+
+0x079e46095bbb72ba7f65f7a966e73bee5c7fab8ad41803aaac9a09c141842095:
+[ERROR] [31/31]  can't find pair. Skip
+[ERROR] [31/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x079e46095bbb72ba7f65f7a966e73bee5c7fab8ad41803aaac9a09c141842095')
+[INFO] [31/200]  sleeping 1 s
+[ERROR] [31/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x079e46095bbb72ba7f65f7a966e73bee5c7fab8ad41803aaac9a09c141842095')
+[INFO] [31/200]  sleeping 1 s
+
+0x007a231f86a3c511d52bfc18ce345e25d53231bb4a5b71491b2f248c22bb178e:
+[ERROR] [32/32]  can't find pair. Skip
+[ERROR] [32/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x007a231f86a3c511d52bfc18ce345e25d53231bb4a5b71491b2f248c22bb178e')
+[INFO] [32/200]  sleeping 1 s
+[ERROR] [32/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x007a231f86a3c511d52bfc18ce345e25d53231bb4a5b71491b2f248c22bb178e')
+[INFO] [32/200]  sleeping 2 s
+
+0x049b91a251461b2b06a26f624e9a915fc0b9dc4843b4cb51fd27140debd68772:
+[ERROR] [33/33]  can't find pair. Skip
+[ERROR] [33/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x049b91a251461b2b06a26f624e9a915fc0b9dc4843b4cb51fd27140debd68772')
+[INFO] [33/200]  sleeping 2 s
+[ERROR] [33/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x049b91a251461b2b06a26f624e9a915fc0b9dc4843b4cb51fd27140debd68772')
+[INFO] [33/200]  sleeping 2 s
+
+0x0002b2cec74420bfc322aa7093552268b3787275b00800c06d938118cb0d834d:
+[ERROR] [34/34]  can't find pair. Skip
+[ERROR] [34/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0002b2cec74420bfc322aa7093552268b3787275b00800c06d938118cb0d834d')
+[INFO] [34/200]  sleeping 1 s
+[ERROR] [34/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0002b2cec74420bfc322aa7093552268b3787275b00800c06d938118cb0d834d')
+[INFO] [34/200]  sleeping 1 s
+
+0x0149b97a4e6a8ba9443c3a6986f93496a94f8e34562d3661f250a811e404e6b3:
+[ERROR] [35/35]  can't find pair. Skip
+[ERROR] [35/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0149b97a4e6a8ba9443c3a6986f93496a94f8e34562d3661f250a811e404e6b3')
+[INFO] [35/200]  sleeping 2 s
+[ERROR] [35/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0149b97a4e6a8ba9443c3a6986f93496a94f8e34562d3661f250a811e404e6b3')
+[INFO] [35/200]  sleeping 1 s
+
+0x02b20d561ebcbc332cc96545f39780e4ef6e7bd2a790ae16cc3e04e4e58d1b7e:
+[ERROR] [36/36]  can't find pair. Skip
+[ERROR] [36/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02b20d561ebcbc332cc96545f39780e4ef6e7bd2a790ae16cc3e04e4e58d1b7e')
+[INFO] [36/200]  sleeping 1 s
+[ERROR] [36/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02b20d561ebcbc332cc96545f39780e4ef6e7bd2a790ae16cc3e04e4e58d1b7e')
+[INFO] [36/200]  sleeping 1 s
+
+0x05bfefd72eff9688b19dd6de0af0c7e8f2cddd0873c3f624c223f82d303f4f00:
+[ERROR] [37/37]  can't find pair. Skip
+[ERROR] [37/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x05bfefd72eff9688b19dd6de0af0c7e8f2cddd0873c3f624c223f82d303f4f00')
+[INFO] [37/200]  sleeping 2 s
+[ERROR] [37/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x05bfefd72eff9688b19dd6de0af0c7e8f2cddd0873c3f624c223f82d303f4f00')
+[INFO] [37/200]  sleeping 2 s
+
+0x077b08f34152c0d56c9c50ddee31ee4233f0d3be6ec723e81c86a8211915e18a:
+[ERROR] [38/38]  can't find pair. Skip
+[ERROR] [38/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x077b08f34152c0d56c9c50ddee31ee4233f0d3be6ec723e81c86a8211915e18a')
+[INFO] [38/200]  sleeping 2 s
+[ERROR] [38/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x077b08f34152c0d56c9c50ddee31ee4233f0d3be6ec723e81c86a8211915e18a')
+[INFO] [38/200]  sleeping 2 s
+
+0x0141b861ac24781a12d9886d12c8fecb14f80094c921b641ab2ce3a0fb6bb39f:
+[ERROR] [39/39]  can't find pair. Skip
+[ERROR] [39/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0141b861ac24781a12d9886d12c8fecb14f80094c921b641ab2ce3a0fb6bb39f')
+[INFO] [39/200]  sleeping 2 s
+[ERROR] [39/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0141b861ac24781a12d9886d12c8fecb14f80094c921b641ab2ce3a0fb6bb39f')
+[INFO] [39/200]  sleeping 2 s
+
+0x027525ba73de4cb5ffc8ea5f8d6cb237fcdcda3bf8f3a66c40c246eefc88b5b1:
+[ERROR] [40/40]  can't find pair. Skip
+[ERROR] [40/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x027525ba73de4cb5ffc8ea5f8d6cb237fcdcda3bf8f3a66c40c246eefc88b5b1')
+[INFO] [40/200]  sleeping 2 s
+[ERROR] [40/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x027525ba73de4cb5ffc8ea5f8d6cb237fcdcda3bf8f3a66c40c246eefc88b5b1')
+[INFO] [40/200]  sleeping 1 s
+
+0x067339d1f3b8f2841e59fa92ab746a1be473192a6e44d0add8d45b9dd9353fae:
+[ERROR] [41/41]  can't find pair. Skip
+[ERROR] [41/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x067339d1f3b8f2841e59fa92ab746a1be473192a6e44d0add8d45b9dd9353fae')
+[INFO] [41/200]  sleeping 2 s
+[ERROR] [41/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x067339d1f3b8f2841e59fa92ab746a1be473192a6e44d0add8d45b9dd9353fae')
+[INFO] [41/200]  sleeping 2 s
+
+0x017fb652d65d7b37d2e230b7577ec93595d7e5a85674ab5f9293b4d2e40c7a92:
+[ERROR] [42/42]  can't find pair. Skip
+[ERROR] [42/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x017fb652d65d7b37d2e230b7577ec93595d7e5a85674ab5f9293b4d2e40c7a92')
+[INFO] [42/200]  sleeping 1 s
+[ERROR] [42/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x017fb652d65d7b37d2e230b7577ec93595d7e5a85674ab5f9293b4d2e40c7a92')
+[INFO] [42/200]  sleeping 1 s
+
+0x041fe80f62bc6c40938275e6669af42d3053926f25e506441543d29b51ebc955:
+[ERROR] [43/43]  can't find pair. Skip
+[ERROR] [43/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x041fe80f62bc6c40938275e6669af42d3053926f25e506441543d29b51ebc955')
+[INFO] [43/200]  sleeping 1 s
+[ERROR] [43/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x041fe80f62bc6c40938275e6669af42d3053926f25e506441543d29b51ebc955')
+[INFO] [43/200]  sleeping 1 s
+
+0x047075a45f9e995ec3919c9859d4d9a5864a4c097d18e73e3ad613b29781907d:
+[ERROR] [44/44]  can't find pair. Skip
+[ERROR] [44/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x047075a45f9e995ec3919c9859d4d9a5864a4c097d18e73e3ad613b29781907d')
+[INFO] [44/200]  sleeping 2 s
+[ERROR] [44/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x047075a45f9e995ec3919c9859d4d9a5864a4c097d18e73e3ad613b29781907d')
+[INFO] [44/200]  sleeping 2 s
+
+0x02c8e02d8c7c54198a7eb281bf5ebaae4afdcc344c7f1ba74a0918a73c468a47:
+[ERROR] [45/45]  can't find pair. Skip
+[ERROR] [45/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02c8e02d8c7c54198a7eb281bf5ebaae4afdcc344c7f1ba74a0918a73c468a47')
+[INFO] [45/200]  sleeping 1 s
+[ERROR] [45/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02c8e02d8c7c54198a7eb281bf5ebaae4afdcc344c7f1ba74a0918a73c468a47')
+[INFO] [45/200]  sleeping 2 s
+
+0x004caade87b5e5746a51956857e1183f7369465da2e3c8d9879f1be4ce7e10e2:
+[ERROR] [46/46]  can't find pair. Skip
+[ERROR] [46/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x004caade87b5e5746a51956857e1183f7369465da2e3c8d9879f1be4ce7e10e2')
+[INFO] [46/200]  sleeping 2 s
+[ERROR] [46/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x004caade87b5e5746a51956857e1183f7369465da2e3c8d9879f1be4ce7e10e2')
+[INFO] [46/200]  sleeping 1 s
+
+0x033e4f664e62e17b4eec38e53066d0c767639b06353001b0095ab5a607b19d46:
+[ERROR] [47/47]  can't find pair. Skip
+[ERROR] [47/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x033e4f664e62e17b4eec38e53066d0c767639b06353001b0095ab5a607b19d46')
+[INFO] [47/200]  sleeping 2 s
+[ERROR] [47/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x033e4f664e62e17b4eec38e53066d0c767639b06353001b0095ab5a607b19d46')
+[INFO] [47/200]  sleeping 1 s
+
+0x04c00acaf4472955872932e2d72f8d3715061c66630d9285dda34a411757a979:
+[ERROR] [48/48]  can't find pair. Skip
+[ERROR] [48/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04c00acaf4472955872932e2d72f8d3715061c66630d9285dda34a411757a979')
+[INFO] [48/200]  sleeping 1 s
+[ERROR] [48/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04c00acaf4472955872932e2d72f8d3715061c66630d9285dda34a411757a979')
+[INFO] [48/200]  sleeping 1 s
+
+0x047afc1fb8bfb82de4077b13286c2cb4ec6cb798fc5a74374117ca869ef0bab6:
+[ERROR] [49/49]  can't find pair. Skip
+[ERROR] [49/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x047afc1fb8bfb82de4077b13286c2cb4ec6cb798fc5a74374117ca869ef0bab6')
+[INFO] [49/200]  sleeping 1 s
+[ERROR] [49/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x047afc1fb8bfb82de4077b13286c2cb4ec6cb798fc5a74374117ca869ef0bab6')
+[INFO] [49/200]  sleeping 1 s
+
+0x003b9d8d75819c959adb36cc6fd42cff9ee8d677dd65a8aa79cf103935b98957:
+[ERROR] [50/50]  can't find pair. Skip
+[ERROR] [50/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x003b9d8d75819c959adb36cc6fd42cff9ee8d677dd65a8aa79cf103935b98957')
+[INFO] [50/200]  sleeping 1 s
+[ERROR] [50/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x003b9d8d75819c959adb36cc6fd42cff9ee8d677dd65a8aa79cf103935b98957')
+[INFO] [50/200]  sleeping 1 s
+
+0x0502b569a3d4b987c8b02b84e6051e08a3a37870ae1f5ef5917cf8ca46c4db92:
+[ERROR] [51/51]  can't find pair. Skip
+[ERROR] [51/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0502b569a3d4b987c8b02b84e6051e08a3a37870ae1f5ef5917cf8ca46c4db92')
+[INFO] [51/200]  sleeping 2 s
+[ERROR] [51/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0502b569a3d4b987c8b02b84e6051e08a3a37870ae1f5ef5917cf8ca46c4db92')
+[INFO] [51/200]  sleeping 1 s
+
+0x0502c2804b41fc1ac58ed1701bae36c26f43f4836489827f676353aa02201f93:
+[ERROR] [52/52]  can't find pair. Skip
+[ERROR] [52/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0502c2804b41fc1ac58ed1701bae36c26f43f4836489827f676353aa02201f93')
+[INFO] [52/200]  sleeping 1 s
+[ERROR] [52/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0502c2804b41fc1ac58ed1701bae36c26f43f4836489827f676353aa02201f93')
+[INFO] [52/200]  sleeping 2 s
+
+0x06c9b3238a5d568a18e39465f580e988debc8c4a4b48df4506b8fa2d29a55247:
+[ERROR] [53/53]  can't find pair. Skip
+[ERROR] [53/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06c9b3238a5d568a18e39465f580e988debc8c4a4b48df4506b8fa2d29a55247')
+[INFO] [53/200]  sleeping 2 s
+[ERROR] [53/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06c9b3238a5d568a18e39465f580e988debc8c4a4b48df4506b8fa2d29a55247')
+[INFO] [53/200]  sleeping 2 s
+
+0x034bd985b8ccea840d25bde15737143cdb1c33b9519c858f3e99a3896eb83e85:
+[ERROR] [54/54]  can't find pair. Skip
+[ERROR] [54/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x034bd985b8ccea840d25bde15737143cdb1c33b9519c858f3e99a3896eb83e85')
+[INFO] [54/200]  sleeping 1 s
+[ERROR] [54/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x034bd985b8ccea840d25bde15737143cdb1c33b9519c858f3e99a3896eb83e85')
+[INFO] [54/200]  sleeping 1 s
+
+0x0721c35b24919d6f49426e10ac2c2b8d47303eb4561bb7066a8278d0b6b5808e:
+[ERROR] [55/55]  can't find pair. Skip
+[ERROR] [55/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0721c35b24919d6f49426e10ac2c2b8d47303eb4561bb7066a8278d0b6b5808e')
+[INFO] [55/200]  sleeping 2 s
+[ERROR] [55/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0721c35b24919d6f49426e10ac2c2b8d47303eb4561bb7066a8278d0b6b5808e')
+[INFO] [55/200]  sleeping 2 s
+
+0x00154723fbb00a5e821548a25c3839ca486efe609f9e8693942575382fd06bd3:
+[ERROR] [56/56]  can't find pair. Skip
+[ERROR] [56/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x00154723fbb00a5e821548a25c3839ca486efe609f9e8693942575382fd06bd3')
+[INFO] [56/200]  sleeping 2 s
+[ERROR] [56/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x00154723fbb00a5e821548a25c3839ca486efe609f9e8693942575382fd06bd3')
+[INFO] [56/200]  sleeping 2 s
+
+0x0298d3637bb6bea863f644cf7a13d756b8cd1e4502775472036123c72d62713c:
+[ERROR] [57/57]  can't find pair. Skip
+[ERROR] [57/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0298d3637bb6bea863f644cf7a13d756b8cd1e4502775472036123c72d62713c')
+[INFO] [57/200]  sleeping 1 s
+[ERROR] [57/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0298d3637bb6bea863f644cf7a13d756b8cd1e4502775472036123c72d62713c')
+[INFO] [57/200]  sleeping 2 s
+
+0x02f3b994e01a7b26b75d898b0b4374e01fb4e182aa0bf4815611cb032982ecfa:
+[ERROR] [58/58]  can't find pair. Skip
+[ERROR] [58/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02f3b994e01a7b26b75d898b0b4374e01fb4e182aa0bf4815611cb032982ecfa')
+[INFO] [58/200]  sleeping 2 s
+[ERROR] [58/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02f3b994e01a7b26b75d898b0b4374e01fb4e182aa0bf4815611cb032982ecfa')
+[INFO] [58/200]  sleeping 2 s
+
+0x01b3c6d07c166ba242efca4417031cc3d978ac8506f02823db31c49a809622df:
+[ERROR] [59/59]  can't find pair. Skip
+[ERROR] [59/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01b3c6d07c166ba242efca4417031cc3d978ac8506f02823db31c49a809622df')
+[INFO] [59/200]  sleeping 2 s
+[ERROR] [59/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01b3c6d07c166ba242efca4417031cc3d978ac8506f02823db31c49a809622df')
+[INFO] [59/200]  sleeping 1 s
+
+0x007ddeb1ba1b746aba4c0ae4413448087fc44d3b856f1414a2da03637d92faf2:
+[ERROR] [60/60]  can't find pair. Skip
+[ERROR] [60/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x007ddeb1ba1b746aba4c0ae4413448087fc44d3b856f1414a2da03637d92faf2')
+[INFO] [60/200]  sleeping 2 s
+[ERROR] [60/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x007ddeb1ba1b746aba4c0ae4413448087fc44d3b856f1414a2da03637d92faf2')
+[INFO] [60/200]  sleeping 2 s
+
+0x01e3b08c812508569fa00bb292631e38cb9b685b7d39938ad1c2d45b0470a129:
+[ERROR] [61/61]  can't find pair. Skip
+[ERROR] [61/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01e3b08c812508569fa00bb292631e38cb9b685b7d39938ad1c2d45b0470a129')
+[INFO] [61/200]  sleeping 1 s
+[ERROR] [61/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01e3b08c812508569fa00bb292631e38cb9b685b7d39938ad1c2d45b0470a129')
+[INFO] [61/200]  sleeping 1 s
+
+0x01858fdf520a4dea7d2df68cd808587eb0ebb6b123387965698897442780cdf7:
+[ERROR] [62/62]  can't find pair. Skip
+[ERROR] [62/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01858fdf520a4dea7d2df68cd808587eb0ebb6b123387965698897442780cdf7')
+[INFO] [62/200]  sleeping 2 s
+[ERROR] [62/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01858fdf520a4dea7d2df68cd808587eb0ebb6b123387965698897442780cdf7')
+[INFO] [62/200]  sleeping 2 s
+
+0x06042b0ce22ee225fcc0104bc61e662f32727f9a4a1517de2a3ac3e7f56e7d2c:
+[ERROR] [63/63]  can't find pair. Skip
+[ERROR] [63/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06042b0ce22ee225fcc0104bc61e662f32727f9a4a1517de2a3ac3e7f56e7d2c')
+[INFO] [63/200]  sleeping 2 s
+[ERROR] [63/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06042b0ce22ee225fcc0104bc61e662f32727f9a4a1517de2a3ac3e7f56e7d2c')
+[INFO] [63/200]  sleeping 1 s
+
+0x01f70f84a8f63f1115881be0d850ac220021c70b14a9f88bd8bef513bf431be7:
+[ERROR] [64/64]  can't find pair. Skip
+[ERROR] [64/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01f70f84a8f63f1115881be0d850ac220021c70b14a9f88bd8bef513bf431be7')
+[INFO] [64/200]  sleeping 1 s
+[ERROR] [64/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01f70f84a8f63f1115881be0d850ac220021c70b14a9f88bd8bef513bf431be7')
+[INFO] [64/200]  sleeping 2 s
+
+0x06ec2de419bb067c60ba75fe0876072be3626c8c552f97eb886d29eda9d24941:
+[ERROR] [65/65]  can't find pair. Skip
+[ERROR] [65/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06ec2de419bb067c60ba75fe0876072be3626c8c552f97eb886d29eda9d24941')
+[INFO] [65/200]  sleeping 1 s
+[ERROR] [65/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06ec2de419bb067c60ba75fe0876072be3626c8c552f97eb886d29eda9d24941')
+[INFO] [65/200]  sleeping 1 s
+
+0x01fb8ef4dac1d5ba35ffbfec15872601cac5136fb3dc6864ba79b667be19fa3c:
+[ERROR] [66/66]  can't find pair. Skip
+[ERROR] [66/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01fb8ef4dac1d5ba35ffbfec15872601cac5136fb3dc6864ba79b667be19fa3c')
+[INFO] [66/200]  sleeping 1 s
+[ERROR] [66/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01fb8ef4dac1d5ba35ffbfec15872601cac5136fb3dc6864ba79b667be19fa3c')
+[INFO] [66/200]  sleeping 2 s
+
+0x03c350a05a426da5395478cebe79b88c816a7cba133bbe5b21c7204880d3610d:
+[ERROR] [67/67]  can't find pair. Skip
+[ERROR] [67/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x03c350a05a426da5395478cebe79b88c816a7cba133bbe5b21c7204880d3610d')
+[INFO] [67/200]  sleeping 1 s
+[ERROR] [67/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x03c350a05a426da5395478cebe79b88c816a7cba133bbe5b21c7204880d3610d')
+[INFO] [67/200]  sleeping 1 s
+
+0x01797e086397a63c6cd4a576a5a6a868fa6dbcdb46da786bbffbf81d9feeb314:
+[ERROR] [68/68]  can't find pair. Skip
+[ERROR] [68/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01797e086397a63c6cd4a576a5a6a868fa6dbcdb46da786bbffbf81d9feeb314')
+[INFO] [68/200]  sleeping 1 s
+[ERROR] [68/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01797e086397a63c6cd4a576a5a6a868fa6dbcdb46da786bbffbf81d9feeb314')
+[INFO] [68/200]  sleeping 2 s
+
+0x0249121f82addf9439de55b625df00dc5444681ef6f1823066ca5d90c9ab289e:
+[ERROR] [69/69]  can't find pair. Skip
+[ERROR] [69/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0249121f82addf9439de55b625df00dc5444681ef6f1823066ca5d90c9ab289e')
+[INFO] [69/200]  sleeping 1 s
+[ERROR] [69/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0249121f82addf9439de55b625df00dc5444681ef6f1823066ca5d90c9ab289e')
+[INFO] [69/200]  sleeping 2 s
+
+0x008c78186e9bafa76f585e3e0a6c10096d90a05b1023a3d3a231f8e86dd21ee7:
+[ERROR] [70/70]  can't find pair. Skip
+[ERROR] [70/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x008c78186e9bafa76f585e3e0a6c10096d90a05b1023a3d3a231f8e86dd21ee7')
+[INFO] [70/200]  sleeping 1 s
+[ERROR] [70/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x008c78186e9bafa76f585e3e0a6c10096d90a05b1023a3d3a231f8e86dd21ee7')
+[INFO] [70/200]  sleeping 1 s
+
+0x047a68d88c524c35b8a63c845848a9aacb1c997e69ce1c8932e22e725b78bb03:
+[ERROR] [71/71]  can't find pair. Skip
+[ERROR] [71/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x047a68d88c524c35b8a63c845848a9aacb1c997e69ce1c8932e22e725b78bb03')
+[INFO] [71/200]  sleeping 1 s
+[ERROR] [71/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x047a68d88c524c35b8a63c845848a9aacb1c997e69ce1c8932e22e725b78bb03')
+[INFO] [71/200]  sleeping 1 s
+
+0x002cc7ea294cfc17e5c5ee2ebf2998073d03ab272304f7ea4e3e732b0da4f07f:
+[ERROR] [72/72]  can't find pair. Skip
+[ERROR] [72/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x002cc7ea294cfc17e5c5ee2ebf2998073d03ab272304f7ea4e3e732b0da4f07f')
+[INFO] [72/200]  sleeping 1 s
+[ERROR] [72/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x002cc7ea294cfc17e5c5ee2ebf2998073d03ab272304f7ea4e3e732b0da4f07f')
+[INFO] [72/200]  sleeping 2 s
+
+0x070b764e3416dd8424cf22802a3dcfeaba9ee32c84aa54c806ac61d87984c769:
+[ERROR] [73/73]  can't find pair. Skip
+[ERROR] [73/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x070b764e3416dd8424cf22802a3dcfeaba9ee32c84aa54c806ac61d87984c769')
+[INFO] [73/200]  sleeping 1 s
+[ERROR] [73/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x070b764e3416dd8424cf22802a3dcfeaba9ee32c84aa54c806ac61d87984c769')
+[INFO] [73/200]  sleeping 1 s
+
+0x023109e54b108e30b73b54d999db5e34ff1b49d8a636d82dcb26da273940fe3e:
+[ERROR] [74/74]  can't find pair. Skip
+[ERROR] [74/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x023109e54b108e30b73b54d999db5e34ff1b49d8a636d82dcb26da273940fe3e')
+[INFO] [74/200]  sleeping 1 s
+[ERROR] [74/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x023109e54b108e30b73b54d999db5e34ff1b49d8a636d82dcb26da273940fe3e')
+[INFO] [74/200]  sleeping 1 s
+
+0x04717c1845c173c5761501a88338a66f36ffa4395aa61a02c791b33f35a81ab7:
+[ERROR] [75/75]  can't find pair. Skip
+[ERROR] [75/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04717c1845c173c5761501a88338a66f36ffa4395aa61a02c791b33f35a81ab7')
+[INFO] [75/200]  sleeping 1 s
+[ERROR] [75/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04717c1845c173c5761501a88338a66f36ffa4395aa61a02c791b33f35a81ab7')
+[INFO] [75/200]  sleeping 1 s
+
+0x036f2a5f1f74ec4fa5b20b7f47fba56faf599025aade2311396320810473e5f3:
+[ERROR] [76/76]  can't find pair. Skip
+[ERROR] [76/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x036f2a5f1f74ec4fa5b20b7f47fba56faf599025aade2311396320810473e5f3')
+[INFO] [76/200]  sleeping 1 s
+[ERROR] [76/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x036f2a5f1f74ec4fa5b20b7f47fba56faf599025aade2311396320810473e5f3')
+[INFO] [76/200]  sleeping 1 s
+
+0x01c805d845339f62f57507617385cd2631c54009f2b5488c279399a2add8b8b5:
+[ERROR] [77/77]  can't find pair. Skip
+[ERROR] [77/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01c805d845339f62f57507617385cd2631c54009f2b5488c279399a2add8b8b5')
+[INFO] [77/200]  sleeping 1 s
+[ERROR] [77/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01c805d845339f62f57507617385cd2631c54009f2b5488c279399a2add8b8b5')
+[INFO] [77/200]  sleeping 2 s
+
+0x002052fc7e65df45e2136bf1605cb822189837e568bee1c2d8d2bf13fa6f3bd4:
+[ERROR] [78/78]  can't find pair. Skip
+[ERROR] [78/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x002052fc7e65df45e2136bf1605cb822189837e568bee1c2d8d2bf13fa6f3bd4')
+[INFO] [78/200]  sleeping 2 s
+[ERROR] [78/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x002052fc7e65df45e2136bf1605cb822189837e568bee1c2d8d2bf13fa6f3bd4')
+[INFO] [78/200]  sleeping 1 s
+
+0x006654d409c9cd8361cca1f2d19a6ef3ad1e4add040df97bebcd6987b30db3d7:
+[ERROR] [79/79]  can't find pair. Skip
+[ERROR] [79/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x006654d409c9cd8361cca1f2d19a6ef3ad1e4add040df97bebcd6987b30db3d7')
+[INFO] [79/200]  sleeping 2 s
+[ERROR] [79/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x006654d409c9cd8361cca1f2d19a6ef3ad1e4add040df97bebcd6987b30db3d7')
+[INFO] [79/200]  sleeping 1 s
+
+0x012299fdfb2a3f89e592ef475dc9cf2544df2d9e84a4341566f0779cb23e93f7:
+[ERROR] [80/80]  can't find pair. Skip
+[ERROR] [80/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x012299fdfb2a3f89e592ef475dc9cf2544df2d9e84a4341566f0779cb23e93f7')
+[INFO] [80/200]  sleeping 2 s
+[ERROR] [80/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x012299fdfb2a3f89e592ef475dc9cf2544df2d9e84a4341566f0779cb23e93f7')
+[INFO] [80/200]  sleeping 1 s
+
+0x07c98d5c3b371201d2d218b6537e2922edf31e2424f43a78f930f45afd874bba:
+[ERROR] [81/81]  can't find pair. Skip
+[ERROR] [81/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07c98d5c3b371201d2d218b6537e2922edf31e2424f43a78f930f45afd874bba')
+[INFO] [81/200]  sleeping 2 s
+[ERROR] [81/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07c98d5c3b371201d2d218b6537e2922edf31e2424f43a78f930f45afd874bba')
+[INFO] [81/200]  sleeping 2 s
+
+0x0548227b7c19110fcde16e4fb1549d96006bf2d9b317e94c8ee09562393efac7:
+[ERROR] [82/82]  can't find pair. Skip
+[ERROR] [82/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0548227b7c19110fcde16e4fb1549d96006bf2d9b317e94c8ee09562393efac7')
+[INFO] [82/200]  sleeping 1 s
+[ERROR] [82/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0548227b7c19110fcde16e4fb1549d96006bf2d9b317e94c8ee09562393efac7')
+[INFO] [82/200]  sleeping 1 s
+
+0x02caca28992f449b6ea2ede06c688cfd3930bc4809f7f0894d6f5f1ff419178d:
+[ERROR] [83/83]  can't find pair. Skip
+[ERROR] [83/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02caca28992f449b6ea2ede06c688cfd3930bc4809f7f0894d6f5f1ff419178d')
+[INFO] [83/200]  sleeping 1 s
+[ERROR] [83/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02caca28992f449b6ea2ede06c688cfd3930bc4809f7f0894d6f5f1ff419178d')
+[INFO] [83/200]  sleeping 1 s
+
+0x05deea4fa36dbfeaf108ecdd6c4b0908c29de53ee0d97fe0ef99335c3e10dad0:
+[ERROR] [84/84]  can't find pair. Skip
+[ERROR] [84/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x05deea4fa36dbfeaf108ecdd6c4b0908c29de53ee0d97fe0ef99335c3e10dad0')
+[INFO] [84/200]  sleeping 2 s
+[ERROR] [84/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x05deea4fa36dbfeaf108ecdd6c4b0908c29de53ee0d97fe0ef99335c3e10dad0')
+[INFO] [84/200]  sleeping 1 s
+
+0x027f03f9a263bda17bc282c9f58c189e65c36ace385104ea8866f53bf2ee9689:
+[ERROR] [85/85]  can't find pair. Skip
+[ERROR] [85/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x027f03f9a263bda17bc282c9f58c189e65c36ace385104ea8866f53bf2ee9689')
+[INFO] [85/200]  sleeping 2 s
+[ERROR] [85/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x027f03f9a263bda17bc282c9f58c189e65c36ace385104ea8866f53bf2ee9689')
+[INFO] [85/200]  sleeping 2 s
+
+0x07a748ac49dd85911a8ac246b3c2c6259d5a4edf570ea59ef3b8499365d494e5:
+[ERROR] [86/86]  can't find pair. Skip
+[ERROR] [86/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07a748ac49dd85911a8ac246b3c2c6259d5a4edf570ea59ef3b8499365d494e5')
+[INFO] [86/200]  sleeping 1 s
+[ERROR] [86/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07a748ac49dd85911a8ac246b3c2c6259d5a4edf570ea59ef3b8499365d494e5')
+[INFO] [86/200]  sleeping 1 s
+
+0x04f2f2fd52426044cb64c489b28233741746f0782c5d02ac58cfb651501e8cb4:
+[ERROR] [87/87]  can't find pair. Skip
+[ERROR] [87/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04f2f2fd52426044cb64c489b28233741746f0782c5d02ac58cfb651501e8cb4')
+[INFO] [87/200]  sleeping 2 s
+[ERROR] [87/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04f2f2fd52426044cb64c489b28233741746f0782c5d02ac58cfb651501e8cb4')
+[INFO] [87/200]  sleeping 2 s
+
+0x0277461cd08c6fb718e0a2c7e83f16ee66faf6e0ea1e3e199ebe1033d980cb53:
+[ERROR] [88/88]  can't find pair. Skip
+[ERROR] [88/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0277461cd08c6fb718e0a2c7e83f16ee66faf6e0ea1e3e199ebe1033d980cb53')
+[INFO] [88/200]  sleeping 1 s
+[ERROR] [88/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0277461cd08c6fb718e0a2c7e83f16ee66faf6e0ea1e3e199ebe1033d980cb53')
+[INFO] [88/200]  sleeping 2 s
+
+0x01b4a538c9502ba70ab0db2fdc0dbf89d16bd1b9dcfc9437894a979bac706807:
+[ERROR] [89/89]  can't find pair. Skip
+[ERROR] [89/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01b4a538c9502ba70ab0db2fdc0dbf89d16bd1b9dcfc9437894a979bac706807')
+[INFO] [89/200]  sleeping 1 s
+[ERROR] [89/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01b4a538c9502ba70ab0db2fdc0dbf89d16bd1b9dcfc9437894a979bac706807')
+[INFO] [89/200]  sleeping 2 s
+
+0x0436e496495ef0e606ccbe47c182f1e1b91bef1adac2d038ed9296dc39a3082f:
+[ERROR] [90/90]  can't find pair. Skip
+[ERROR] [90/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0436e496495ef0e606ccbe47c182f1e1b91bef1adac2d038ed9296dc39a3082f')
+[INFO] [90/200]  sleeping 1 s
+[ERROR] [90/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0436e496495ef0e606ccbe47c182f1e1b91bef1adac2d038ed9296dc39a3082f')
+[INFO] [90/200]  sleeping 2 s
+
+0x0260e345f47d6471ffa407c1145d62125300107f7ab61c0824e86e3dc89458cd:
+[ERROR] [91/91]  can't find pair. Skip
+[ERROR] [91/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0260e345f47d6471ffa407c1145d62125300107f7ab61c0824e86e3dc89458cd')
+[INFO] [91/200]  sleeping 1 s
+[ERROR] [91/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0260e345f47d6471ffa407c1145d62125300107f7ab61c0824e86e3dc89458cd')
+[INFO] [91/200]  sleeping 1 s
+
+0x0116454c429aa92e72f86dda91bb264a7a2520319fc340ded9287b138bf09020:
+[ERROR] [92/92]  can't find pair. Skip
+[ERROR] [92/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0116454c429aa92e72f86dda91bb264a7a2520319fc340ded9287b138bf09020')
+[INFO] [92/200]  sleeping 1 s
+[ERROR] [92/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0116454c429aa92e72f86dda91bb264a7a2520319fc340ded9287b138bf09020')
+[INFO] [92/200]  sleeping 2 s
+
+0x07a9c8ba55f996290bb96bd2546035bdd881fd8b5e927a38fc73bcb5439b6776:
+[ERROR] [93/93]  can't find pair. Skip
+[ERROR] [93/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07a9c8ba55f996290bb96bd2546035bdd881fd8b5e927a38fc73bcb5439b6776')
+[INFO] [93/200]  sleeping 2 s
+[ERROR] [93/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07a9c8ba55f996290bb96bd2546035bdd881fd8b5e927a38fc73bcb5439b6776')
+[INFO] [93/200]  sleeping 1 s
+
+0x07b61791f007cae06f03ab5b46ab4e72f49da20d8939143a36502989fada0897:
+[ERROR] [94/94]  can't find pair. Skip
+[ERROR] [94/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07b61791f007cae06f03ab5b46ab4e72f49da20d8939143a36502989fada0897')
+[INFO] [94/200]  sleeping 2 s
+[ERROR] [94/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07b61791f007cae06f03ab5b46ab4e72f49da20d8939143a36502989fada0897')
+[INFO] [94/200]  sleeping 1 s
+
+0x01f48db3666e5dc038626ec630f2dd2b9649f767abd2be64fe0c0864a07b0f33:
+[ERROR] [95/95]  can't find pair. Skip
+[ERROR] [95/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01f48db3666e5dc038626ec630f2dd2b9649f767abd2be64fe0c0864a07b0f33')
+[INFO] [95/200]  sleeping 2 s
+[ERROR] [95/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01f48db3666e5dc038626ec630f2dd2b9649f767abd2be64fe0c0864a07b0f33')
+[INFO] [95/200]  sleeping 2 s
+
+0x006f0221c24c8cc48505f228630ad6ceaf79b08e8ff2ee3f421d1d78e9391413:
+[ERROR] [96/96]  can't find pair. Skip
+[ERROR] [96/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x006f0221c24c8cc48505f228630ad6ceaf79b08e8ff2ee3f421d1d78e9391413')
+[INFO] [96/200]  sleeping 1 s
+[ERROR] [96/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x006f0221c24c8cc48505f228630ad6ceaf79b08e8ff2ee3f421d1d78e9391413')
+[INFO] [96/200]  sleeping 2 s
+
+0x04e481c55229d93b2f68d5a060a6998874076e3b032a814d63f6f0d7b4322cf3:
+[ERROR] [97/97]  can't find pair. Skip
+[ERROR] [97/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04e481c55229d93b2f68d5a060a6998874076e3b032a814d63f6f0d7b4322cf3')
+[INFO] [97/200]  sleeping 1 s
+[ERROR] [97/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04e481c55229d93b2f68d5a060a6998874076e3b032a814d63f6f0d7b4322cf3')
+[INFO] [97/200]  sleeping 2 s
+
+0x0303d74e9e8243eec244c88977d23f730ba2cdd4e336a25d6866c82be9e76deb:
+[ERROR] [98/98]  can't find pair. Skip
+[ERROR] [98/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0303d74e9e8243eec244c88977d23f730ba2cdd4e336a25d6866c82be9e76deb')
+[INFO] [98/200]  sleeping 2 s
+[ERROR] [98/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0303d74e9e8243eec244c88977d23f730ba2cdd4e336a25d6866c82be9e76deb')
+[INFO] [98/200]  sleeping 2 s
+
+0x02acc5281db8f5136756082c7789cb4ae097d4899fc1b41c7e3ce928c0a6ffe2:
+[ERROR] [99/99]  can't find pair. Skip
+[ERROR] [99/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02acc5281db8f5136756082c7789cb4ae097d4899fc1b41c7e3ce928c0a6ffe2')
+[INFO] [99/200]  sleeping 2 s
+[ERROR] [99/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02acc5281db8f5136756082c7789cb4ae097d4899fc1b41c7e3ce928c0a6ffe2')
+[INFO] [99/200]  sleeping 2 s
+
+0x000bff08d08f1fc7c7f142201109bb82ae780129d5c9da1bf5771fff13e252cb:
+[ERROR] [100/100]  can't find pair. Skip
+[ERROR] [100/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x000bff08d08f1fc7c7f142201109bb82ae780129d5c9da1bf5771fff13e252cb')
+[INFO] [100/200]  sleeping 2 s
+[ERROR] [100/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x000bff08d08f1fc7c7f142201109bb82ae780129d5c9da1bf5771fff13e252cb')
+[INFO] [100/200]  sleeping 1 s
+
+0x03568ccc8008330dd782a5db3b8582e2011b856e3818387b19b4451b671be23d:
+[ERROR] [101/101]  can't find pair. Skip
+[ERROR] [101/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x03568ccc8008330dd782a5db3b8582e2011b856e3818387b19b4451b671be23d')
+[INFO] [101/200]  sleeping 1 s
+[ERROR] [101/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x03568ccc8008330dd782a5db3b8582e2011b856e3818387b19b4451b671be23d')
+[INFO] [101/200]  sleeping 2 s
+
+0x04296f8435b29bb7758f431fa7558fc8c2165962b2895a394fbeeffeeddefbbd:
+[ERROR] [102/102]  can't find pair. Skip
+[ERROR] [102/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04296f8435b29bb7758f431fa7558fc8c2165962b2895a394fbeeffeeddefbbd')
+[INFO] [102/200]  sleeping 2 s
+[ERROR] [102/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04296f8435b29bb7758f431fa7558fc8c2165962b2895a394fbeeffeeddefbbd')
+[INFO] [102/200]  sleeping 1 s
+
+0x0731d14e092270abb42e0cdc7faa67aacae1f324e395658b697f4a7592048ab3:
+[ERROR] [103/103]  can't find pair. Skip
+[ERROR] [103/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0731d14e092270abb42e0cdc7faa67aacae1f324e395658b697f4a7592048ab3')
+[INFO] [103/200]  sleeping 2 s
+[ERROR] [103/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0731d14e092270abb42e0cdc7faa67aacae1f324e395658b697f4a7592048ab3')
+[INFO] [103/200]  sleeping 1 s
+
+0x04c052e1e7a1772ef84ef1277498b90f7fb610c8edef2f1e4aa07fe74f0cd1f3:
+[ERROR] [104/104]  can't find pair. Skip
+[ERROR] [104/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04c052e1e7a1772ef84ef1277498b90f7fb610c8edef2f1e4aa07fe74f0cd1f3')
+[INFO] [104/200]  sleeping 2 s
+[ERROR] [104/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04c052e1e7a1772ef84ef1277498b90f7fb610c8edef2f1e4aa07fe74f0cd1f3')
+[INFO] [104/200]  sleeping 1 s
+
+0x05a612d9883fbca0264529487ce33cc2a1e80ae9326778220e538fd408cefbdd:
+[ERROR] [105/105]  can't find pair. Skip
+[ERROR] [105/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x05a612d9883fbca0264529487ce33cc2a1e80ae9326778220e538fd408cefbdd')
+[INFO] [105/200]  sleeping 2 s
+[ERROR] [105/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x05a612d9883fbca0264529487ce33cc2a1e80ae9326778220e538fd408cefbdd')
+[INFO] [105/200]  sleeping 1 s
+
+0x04885a5398f4eac819d625f33a396e79d4935c4451eb0f2e5e7c56e5aeddbdc7:
+[ERROR] [106/106]  can't find pair. Skip
+[ERROR] [106/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04885a5398f4eac819d625f33a396e79d4935c4451eb0f2e5e7c56e5aeddbdc7')
+[INFO] [106/200]  sleeping 2 s
+[ERROR] [106/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04885a5398f4eac819d625f33a396e79d4935c4451eb0f2e5e7c56e5aeddbdc7')
+[INFO] [106/200]  sleeping 2 s
+
+0x040b0b01361b3af443f910878bd2f49b0496b3403d631d27b53bef71ce0ee5c3:
+[ERROR] [107/107]  can't find pair. Skip
+[ERROR] [107/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x040b0b01361b3af443f910878bd2f49b0496b3403d631d27b53bef71ce0ee5c3')
+[INFO] [107/200]  sleeping 2 s
+[ERROR] [107/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x040b0b01361b3af443f910878bd2f49b0496b3403d631d27b53bef71ce0ee5c3')
+[INFO] [107/200]  sleeping 2 s
+
+0x029e268db12ea698098c4622f0fb7751a7426b7dd1a6d9fdfcbac3dcfc9b94bc:
+[ERROR] [108/108]  can't find pair. Skip
+[ERROR] [108/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x029e268db12ea698098c4622f0fb7751a7426b7dd1a6d9fdfcbac3dcfc9b94bc')
+[INFO] [108/200]  sleeping 1 s
+[ERROR] [108/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x029e268db12ea698098c4622f0fb7751a7426b7dd1a6d9fdfcbac3dcfc9b94bc')
+[INFO] [108/200]  sleeping 1 s
+
+0x0178db28400c286aaefb95ded872698bf2735169efcc00a5b0477c6dae700c10:
+[ERROR] [109/109]  can't find pair. Skip
+[ERROR] [109/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0178db28400c286aaefb95ded872698bf2735169efcc00a5b0477c6dae700c10')
+[INFO] [109/200]  sleeping 1 s
+[ERROR] [109/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0178db28400c286aaefb95ded872698bf2735169efcc00a5b0477c6dae700c10')
+[INFO] [109/200]  sleeping 2 s
+
+0x01d08e6a35e002d50a9dcdd1980e919da5f2221dee494e42742d93ac9536166d:
+[ERROR] [110/110]  can't find pair. Skip
+[ERROR] [110/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01d08e6a35e002d50a9dcdd1980e919da5f2221dee494e42742d93ac9536166d')
+[INFO] [110/200]  sleeping 2 s
+[ERROR] [110/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01d08e6a35e002d50a9dcdd1980e919da5f2221dee494e42742d93ac9536166d')
+[INFO] [110/200]  sleeping 2 s
+
+0x008726371a10a4caa36db9a3211b654de5233aa6a2bbfaadb8ec56f39e3293f1:
+[ERROR] [111/111]  can't find pair. Skip
+[ERROR] [111/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x008726371a10a4caa36db9a3211b654de5233aa6a2bbfaadb8ec56f39e3293f1')
+[INFO] [111/200]  sleeping 2 s
+[ERROR] [111/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x008726371a10a4caa36db9a3211b654de5233aa6a2bbfaadb8ec56f39e3293f1')
+[INFO] [111/200]  sleeping 2 s
+
+0x0257e5fea592821fa1e0e793aec174c6384a31fdf73fa5d4fe4f9d5016ffc6b4:
+[ERROR] [112/112]  can't find pair. Skip
+[ERROR] [112/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0257e5fea592821fa1e0e793aec174c6384a31fdf73fa5d4fe4f9d5016ffc6b4')
+[INFO] [112/200]  sleeping 1 s
+[ERROR] [112/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0257e5fea592821fa1e0e793aec174c6384a31fdf73fa5d4fe4f9d5016ffc6b4')
+[INFO] [112/200]  sleeping 2 s
+
+0x023db7d0e8d6f22a528b22d702965895f4a0d930e506e27c6e12bda9e3ed85c7:
+[ERROR] [113/113]  can't find pair. Skip
+[ERROR] [113/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x023db7d0e8d6f22a528b22d702965895f4a0d930e506e27c6e12bda9e3ed85c7')
+[INFO] [113/200]  sleeping 2 s
+[ERROR] [113/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x023db7d0e8d6f22a528b22d702965895f4a0d930e506e27c6e12bda9e3ed85c7')
+[INFO] [113/200]  sleeping 2 s
+
+0x06aae4b5fe8ff8656697791b47065ce8cc33ddaed4d7ce906ba2c04c44af5c7f:
+[ERROR] [114/114]  can't find pair. Skip
+[ERROR] [114/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06aae4b5fe8ff8656697791b47065ce8cc33ddaed4d7ce906ba2c04c44af5c7f')
+[INFO] [114/200]  sleeping 2 s
+[ERROR] [114/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06aae4b5fe8ff8656697791b47065ce8cc33ddaed4d7ce906ba2c04c44af5c7f')
+[INFO] [114/200]  sleeping 2 s
+
+0x0078271f3f4b79082d8323c499897d180f5580b37125d74492d75a427c816b22:
+[ERROR] [115/115]  can't find pair. Skip
+[ERROR] [115/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0078271f3f4b79082d8323c499897d180f5580b37125d74492d75a427c816b22')
+[INFO] [115/200]  sleeping 2 s
+[ERROR] [115/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0078271f3f4b79082d8323c499897d180f5580b37125d74492d75a427c816b22')
+[INFO] [115/200]  sleeping 1 s
+
+0x06d71fd8ca685690c8af9f3ed9f0281164c0790b14cccfd6ea438d6d1011994d:
+[ERROR] [116/116]  can't find pair. Skip
+[ERROR] [116/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06d71fd8ca685690c8af9f3ed9f0281164c0790b14cccfd6ea438d6d1011994d')
+[INFO] [116/200]  sleeping 1 s
+[ERROR] [116/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x06d71fd8ca685690c8af9f3ed9f0281164c0790b14cccfd6ea438d6d1011994d')
+[INFO] [116/200]  sleeping 1 s
+
+0x00ca729738da43a861fa025029e1c1e28bc0945e0eb7da66636c1cb9b98b965a:
+[ERROR] [117/117]  can't find pair. Skip
+[ERROR] [117/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x00ca729738da43a861fa025029e1c1e28bc0945e0eb7da66636c1cb9b98b965a')
+[INFO] [117/200]  sleeping 2 s
+[ERROR] [117/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x00ca729738da43a861fa025029e1c1e28bc0945e0eb7da66636c1cb9b98b965a')
+[INFO] [117/200]  sleeping 1 s
+
+0x073017ffed28d51eebc41f6dbbea90319814455bf72e18f33729d170d9b7688b:
+[ERROR] [118/118]  can't find pair. Skip
+[ERROR] [118/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x073017ffed28d51eebc41f6dbbea90319814455bf72e18f33729d170d9b7688b')
+[INFO] [118/200]  sleeping 2 s
+[ERROR] [118/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x073017ffed28d51eebc41f6dbbea90319814455bf72e18f33729d170d9b7688b')
+[INFO] [118/200]  sleeping 2 s
+
+0x0670479396e1a37511ea08c90d59a68e3994cd1d88c9ca7d8edecb800d041345:
+[ERROR] [119/119]  can't find pair. Skip
+[ERROR] [119/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0670479396e1a37511ea08c90d59a68e3994cd1d88c9ca7d8edecb800d041345')
+[INFO] [119/200]  sleeping 1 s
+[ERROR] [119/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0670479396e1a37511ea08c90d59a68e3994cd1d88c9ca7d8edecb800d041345')
+[INFO] [119/200]  sleeping 2 s
+
+0x0262b0323f25b592e344198e420e888b244176f2cbf8236fa4635914e8708ac7:
+[ERROR] [120/120]  can't find pair. Skip
+[ERROR] [120/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0262b0323f25b592e344198e420e888b244176f2cbf8236fa4635914e8708ac7')
+[INFO] [120/200]  sleeping 2 s
+[ERROR] [120/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0262b0323f25b592e344198e420e888b244176f2cbf8236fa4635914e8708ac7')
+[INFO] [120/200]  sleeping 2 s
+
+0x0507edf41ebd031420dafd3956e84b471afeb123e17b31bb287b5339642d803f:
+[ERROR] [121/121]  can't find pair. Skip
+[ERROR] [121/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0507edf41ebd031420dafd3956e84b471afeb123e17b31bb287b5339642d803f')
+[INFO] [121/200]  sleeping 1 s
+[ERROR] [121/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0507edf41ebd031420dafd3956e84b471afeb123e17b31bb287b5339642d803f')
+[INFO] [121/200]  sleeping 1 s
+
+0x05994758c9a877939b29662ec5523f3e3cfe6a7c6d9078603621cf6a455487d6:
+[ERROR] [122/122]  can't find pair. Skip
+[ERROR] [122/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x05994758c9a877939b29662ec5523f3e3cfe6a7c6d9078603621cf6a455487d6')
+[INFO] [122/200]  sleeping 1 s
+[ERROR] [122/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x05994758c9a877939b29662ec5523f3e3cfe6a7c6d9078603621cf6a455487d6')
+[INFO] [122/200]  sleeping 1 s
+
+0x03243a607296484cb058d36ff7f354d0e31793bddeb38f6f01d6835840bedf4a:
+[ERROR] [123/123]  can't find pair. Skip
+[ERROR] [123/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x03243a607296484cb058d36ff7f354d0e31793bddeb38f6f01d6835840bedf4a')
+[INFO] [123/200]  sleeping 2 s
+[ERROR] [123/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x03243a607296484cb058d36ff7f354d0e31793bddeb38f6f01d6835840bedf4a')
+[INFO] [123/200]  sleeping 2 s
+
+0x042391d531705ea018fdcc04578b43b7f088d5458b1ab11019a519961a1c2760:
+[ERROR] [124/124]  can't find pair. Skip
+[ERROR] [124/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x042391d531705ea018fdcc04578b43b7f088d5458b1ab11019a519961a1c2760')
+[INFO] [124/200]  sleeping 1 s
+[ERROR] [124/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x042391d531705ea018fdcc04578b43b7f088d5458b1ab11019a519961a1c2760')
+[INFO] [124/200]  sleeping 1 s
+
+0x021237656e959a95c61901476204136c03e4cb8a549fb36b68e14f1da484e3b5:
+[ERROR] [125/125]  can't find pair. Skip
+[ERROR] [125/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x021237656e959a95c61901476204136c03e4cb8a549fb36b68e14f1da484e3b5')
+[INFO] [125/200]  sleeping 2 s
+[ERROR] [125/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x021237656e959a95c61901476204136c03e4cb8a549fb36b68e14f1da484e3b5')
+[INFO] [125/200]  sleeping 1 s
+
+0x051abaf0c928a5d5fdabe309507f088f14d9708cb4fd002fa741cfab06ad5d95:
+[ERROR] [126/126]  can't find pair. Skip
+[ERROR] [126/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x051abaf0c928a5d5fdabe309507f088f14d9708cb4fd002fa741cfab06ad5d95')
+[INFO] [126/200]  sleeping 2 s
+[ERROR] [126/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x051abaf0c928a5d5fdabe309507f088f14d9708cb4fd002fa741cfab06ad5d95')
+[INFO] [126/200]  sleeping 2 s
+
+0x07748459c37c2fcf95ca696ea582cbc71688e8dd7f6ad55ff9e9d03ed738648b:
+[ERROR] [127/127]  can't find pair. Skip
+[ERROR] [127/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07748459c37c2fcf95ca696ea582cbc71688e8dd7f6ad55ff9e9d03ed738648b')
+[INFO] [127/200]  sleeping 2 s
+[ERROR] [127/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07748459c37c2fcf95ca696ea582cbc71688e8dd7f6ad55ff9e9d03ed738648b')
+[INFO] [127/200]  sleeping 2 s
+
+0x0154933fa3584cf7df99b4a100e11aba02e791cfd0b7330844d193b762dd858d:
+[ERROR] [128/128]  can't find pair. Skip
+[ERROR] [128/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0154933fa3584cf7df99b4a100e11aba02e791cfd0b7330844d193b762dd858d')
+[INFO] [128/200]  sleeping 1 s
+[ERROR] [128/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0154933fa3584cf7df99b4a100e11aba02e791cfd0b7330844d193b762dd858d')
+[INFO] [128/200]  sleeping 2 s
+
+0x0473b4549af9adff258f759bdb05e31e9ca47bb7ed88d80dc8c78da52ddebaab:
+[ERROR] [129/129]  can't find pair. Skip
+[ERROR] [129/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0473b4549af9adff258f759bdb05e31e9ca47bb7ed88d80dc8c78da52ddebaab')
+[INFO] [129/200]  sleeping 2 s
+[ERROR] [129/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0473b4549af9adff258f759bdb05e31e9ca47bb7ed88d80dc8c78da52ddebaab')
+[INFO] [129/200]  sleeping 2 s
+
+0x05fa377fbf469d513d72aafd304287b1c0e74c92f72d91323aa08d9f8eb4d5c9:
+[ERROR] [130/130]  can't find pair. Skip
+[ERROR] [130/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x05fa377fbf469d513d72aafd304287b1c0e74c92f72d91323aa08d9f8eb4d5c9')
+[INFO] [130/200]  sleeping 1 s
+[ERROR] [130/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x05fa377fbf469d513d72aafd304287b1c0e74c92f72d91323aa08d9f8eb4d5c9')
+[INFO] [130/200]  sleeping 1 s
+
+0x059d0fa4dd025464aeec82f273bf9ddc2ebb4f7fa850d8f6b360b5e3f7e59f48:
+[ERROR] [131/131]  can't find pair. Skip
+[ERROR] [131/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x059d0fa4dd025464aeec82f273bf9ddc2ebb4f7fa850d8f6b360b5e3f7e59f48')
+[INFO] [131/200]  sleeping 2 s
+[ERROR] [131/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x059d0fa4dd025464aeec82f273bf9ddc2ebb4f7fa850d8f6b360b5e3f7e59f48')
+[INFO] [131/200]  sleeping 2 s
+
+0x0471c18b499349f453b2b70ab184b9e76d94ac9d51308aa0d0431255e408a7b1:
+[ERROR] [132/132]  can't find pair. Skip
+[ERROR] [132/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0471c18b499349f453b2b70ab184b9e76d94ac9d51308aa0d0431255e408a7b1')
+[INFO] [132/200]  sleeping 1 s
+[ERROR] [132/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0471c18b499349f453b2b70ab184b9e76d94ac9d51308aa0d0431255e408a7b1')
+[INFO] [132/200]  sleeping 2 s
+
+0x07b07d9c11165fc4833ed32b23f8822cd7eb21ade784418f94723c0e14319c74:
+[ERROR] [133/133]  can't find pair. Skip
+[ERROR] [133/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07b07d9c11165fc4833ed32b23f8822cd7eb21ade784418f94723c0e14319c74')
+[INFO] [133/200]  sleeping 2 s
+[ERROR] [133/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07b07d9c11165fc4833ed32b23f8822cd7eb21ade784418f94723c0e14319c74')
+[INFO] [133/200]  sleeping 1 s
+
+0x023155103107959b28a776d70dad1d97d1dff7bd8e2ee90c9e2cf196c8334df1:
+[ERROR] [134/134]  can't find pair. Skip
+[ERROR] [134/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x023155103107959b28a776d70dad1d97d1dff7bd8e2ee90c9e2cf196c8334df1')
+[INFO] [134/200]  sleeping 2 s
+[ERROR] [134/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x023155103107959b28a776d70dad1d97d1dff7bd8e2ee90c9e2cf196c8334df1')
+[INFO] [134/200]  sleeping 1 s
+
+0x00df74479e19092d5b9de1b2a67d3c179618b527c3dc292fcc5a36ef29da83ae:
+[ERROR] [135/135]  can't find pair. Skip
+[ERROR] [135/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x00df74479e19092d5b9de1b2a67d3c179618b527c3dc292fcc5a36ef29da83ae')
+[INFO] [135/200]  sleeping 1 s
+[ERROR] [135/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x00df74479e19092d5b9de1b2a67d3c179618b527c3dc292fcc5a36ef29da83ae')
+[INFO] [135/200]  sleeping 1 s
+
+0x0267cd86571d88839100c4d08b7161c42ef67842d490b18a5f84f87918262855:
+[ERROR] [136/136]  can't find pair. Skip
+[ERROR] [136/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0267cd86571d88839100c4d08b7161c42ef67842d490b18a5f84f87918262855')
+[INFO] [136/200]  sleeping 2 s
+[ERROR] [136/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0267cd86571d88839100c4d08b7161c42ef67842d490b18a5f84f87918262855')
+[INFO] [136/200]  sleeping 2 s
+
+0x0419a2ee081443b40e6b06a96c1094f4c6288bfbbe181ab1da4d8fb45c8f8656:
+[ERROR] [137/137]  can't find pair. Skip
+[ERROR] [137/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0419a2ee081443b40e6b06a96c1094f4c6288bfbbe181ab1da4d8fb45c8f8656')
+[INFO] [137/200]  sleeping 1 s
+[ERROR] [137/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0419a2ee081443b40e6b06a96c1094f4c6288bfbbe181ab1da4d8fb45c8f8656')
+[INFO] [137/200]  sleeping 2 s
+
+0x002ba7c6eee524786344fb126458df527fc1044c9dc1b700eb5da5f7a727f1bf:
+[ERROR] [138/138]  can't find pair. Skip
+[ERROR] [138/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x002ba7c6eee524786344fb126458df527fc1044c9dc1b700eb5da5f7a727f1bf')
+[INFO] [138/200]  sleeping 1 s
+[ERROR] [138/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x002ba7c6eee524786344fb126458df527fc1044c9dc1b700eb5da5f7a727f1bf')
+[INFO] [138/200]  sleeping 2 s
+
+0x036e33dbeb67de49a8f9273b973127b9c95b4262a5fdeca3cc777944d571db27:
+[ERROR] [139/139]  can't find pair. Skip
+[ERROR] [139/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x036e33dbeb67de49a8f9273b973127b9c95b4262a5fdeca3cc777944d571db27')
+[INFO] [139/200]  sleeping 2 s
+[ERROR] [139/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x036e33dbeb67de49a8f9273b973127b9c95b4262a5fdeca3cc777944d571db27')
+[INFO] [139/200]  sleeping 1 s
+
+0x04f2ef6c6fb9df03a8480dfbe298a3e935792ba4b6c83801224eb19b7b1f93e4:
+[ERROR] [140/140]  can't find pair. Skip
+[ERROR] [140/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04f2ef6c6fb9df03a8480dfbe298a3e935792ba4b6c83801224eb19b7b1f93e4')
+[INFO] [140/200]  sleeping 1 s
+[ERROR] [140/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04f2ef6c6fb9df03a8480dfbe298a3e935792ba4b6c83801224eb19b7b1f93e4')
+[INFO] [140/200]  sleeping 2 s
+
+0x065e60d87bcee31eed91e486e97c3da78f63c1a43fb79e6397012569d965b128:
+[ERROR] [141/141]  can't find pair. Skip
+[ERROR] [141/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x065e60d87bcee31eed91e486e97c3da78f63c1a43fb79e6397012569d965b128')
+[INFO] [141/200]  sleeping 2 s
+[ERROR] [141/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x065e60d87bcee31eed91e486e97c3da78f63c1a43fb79e6397012569d965b128')
+[INFO] [141/200]  sleeping 2 s
+
+0x005ea25bbf78d40bfaf7eaac714cf7a933c05ad0f1d587ffd7040bfa4e051614:
+[ERROR] [142/142]  can't find pair. Skip
+[ERROR] [142/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x005ea25bbf78d40bfaf7eaac714cf7a933c05ad0f1d587ffd7040bfa4e051614')
+[INFO] [142/200]  sleeping 2 s
+[ERROR] [142/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x005ea25bbf78d40bfaf7eaac714cf7a933c05ad0f1d587ffd7040bfa4e051614')
+[INFO] [142/200]  sleeping 1 s
+
+0x02bf6e7017e18fd925633567bee1f1a13a68e658ba4fd9f0d8b5b98e8cad2f21:
+[ERROR] [143/143]  can't find pair. Skip
+[ERROR] [143/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02bf6e7017e18fd925633567bee1f1a13a68e658ba4fd9f0d8b5b98e8cad2f21')
+[INFO] [143/200]  sleeping 1 s
+[ERROR] [143/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02bf6e7017e18fd925633567bee1f1a13a68e658ba4fd9f0d8b5b98e8cad2f21')
+[INFO] [143/200]  sleeping 1 s
+
+0x07f48178cd69abbc003e6006248008317622063c3ba106eaa79f32bd52ed9ce9:
+[ERROR] [144/144]  can't find pair. Skip
+[ERROR] [144/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07f48178cd69abbc003e6006248008317622063c3ba106eaa79f32bd52ed9ce9')
+[INFO] [144/200]  sleeping 1 s
+[ERROR] [144/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07f48178cd69abbc003e6006248008317622063c3ba106eaa79f32bd52ed9ce9')
+[INFO] [144/200]  sleeping 2 s
+
+0x002aad4cfc851fe6ef1c7b23a03707a0a7d74db43bff055836f9a6dd47f33650:
+[ERROR] [145/145]  can't find pair. Skip
+[ERROR] [145/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x002aad4cfc851fe6ef1c7b23a03707a0a7d74db43bff055836f9a6dd47f33650')
+[INFO] [145/200]  sleeping 1 s
+[ERROR] [145/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x002aad4cfc851fe6ef1c7b23a03707a0a7d74db43bff055836f9a6dd47f33650')
+[INFO] [145/200]  sleeping 1 s
+
+0x07bb3e95f9ee2f6707345598ec50bb54885104de082e80fed772aa8f33fbdafc:
+[ERROR] [146/146]  can't find pair. Skip
+[ERROR] [146/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07bb3e95f9ee2f6707345598ec50bb54885104de082e80fed772aa8f33fbdafc')
+[INFO] [146/200]  sleeping 1 s
+[ERROR] [146/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07bb3e95f9ee2f6707345598ec50bb54885104de082e80fed772aa8f33fbdafc')
+[INFO] [146/200]  sleeping 1 s
+
+0x00f7b2ac2bb27145e6ee315bb37de360cd7ba0ab8366f1045dfaf378cd7a7ab2:
+[ERROR] [147/147]  can't find pair. Skip
+[ERROR] [147/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x00f7b2ac2bb27145e6ee315bb37de360cd7ba0ab8366f1045dfaf378cd7a7ab2')
+[INFO] [147/200]  sleeping 2 s
+[ERROR] [147/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x00f7b2ac2bb27145e6ee315bb37de360cd7ba0ab8366f1045dfaf378cd7a7ab2')
+[INFO] [147/200]  sleeping 1 s
+
+0x04ba2232a444cb30dc03a2f3e01639d40ba43284c8d304672524d013ebc8be8a:
+[ERROR] [148/148]  can't find pair. Skip
+[ERROR] [148/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04ba2232a444cb30dc03a2f3e01639d40ba43284c8d304672524d013ebc8be8a')
+[INFO] [148/200]  sleeping 1 s
+[ERROR] [148/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04ba2232a444cb30dc03a2f3e01639d40ba43284c8d304672524d013ebc8be8a')
+[INFO] [148/200]  sleeping 1 s
+
+0x05061061c0d30bad11b9aef60355013a4faa1cbb4268499892177c34021eb2c3:
+[ERROR] [149/149]  can't find pair. Skip
+[ERROR] [149/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x05061061c0d30bad11b9aef60355013a4faa1cbb4268499892177c34021eb2c3')
+[INFO] [149/200]  sleeping 2 s
+[ERROR] [149/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x05061061c0d30bad11b9aef60355013a4faa1cbb4268499892177c34021eb2c3')
+[INFO] [149/200]  sleeping 1 s
+
+0x07de03bd18023950e0a3e92d6e643da7ba237a7df7294debc60bf7d4f9b1795c:
+[ERROR] [150/150]  can't find pair. Skip
+[ERROR] [150/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07de03bd18023950e0a3e92d6e643da7ba237a7df7294debc60bf7d4f9b1795c')
+[INFO] [150/200]  sleeping 1 s
+[ERROR] [150/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07de03bd18023950e0a3e92d6e643da7ba237a7df7294debc60bf7d4f9b1795c')
+[INFO] [150/200]  sleeping 1 s
+
+0x03860ec77c74ca2bc13752d73e1440663199d74e82f38f23853dc33bf07ba099:
+[ERROR] [151/151]  can't find pair. Skip
+[ERROR] [151/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x03860ec77c74ca2bc13752d73e1440663199d74e82f38f23853dc33bf07ba099')
+[INFO] [151/200]  sleeping 2 s
+[ERROR] [151/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x03860ec77c74ca2bc13752d73e1440663199d74e82f38f23853dc33bf07ba099')
+[INFO] [151/200]  sleeping 1 s
+
+0x00f4093bbbf89cb9ea5c8dd30838aced100f659f9dab3074982791cb522e4a84:
+[ERROR] [152/152]  can't find pair. Skip
+[ERROR] [152/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x00f4093bbbf89cb9ea5c8dd30838aced100f659f9dab3074982791cb522e4a84')
+[INFO] [152/200]  sleeping 2 s
+[ERROR] [152/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x00f4093bbbf89cb9ea5c8dd30838aced100f659f9dab3074982791cb522e4a84')
+[INFO] [152/200]  sleeping 1 s
+
+0x0708a4a6de6a6b30bf628d2582e50ce72d254056810bda36240db20063ddf6b3:
+[ERROR] [153/153]  can't find pair. Skip
+[ERROR] [153/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0708a4a6de6a6b30bf628d2582e50ce72d254056810bda36240db20063ddf6b3')
+[INFO] [153/200]  sleeping 2 s
+[ERROR] [153/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0708a4a6de6a6b30bf628d2582e50ce72d254056810bda36240db20063ddf6b3')
+[INFO] [153/200]  sleeping 2 s
+
+0x022f20f4d822698e33a8bdc1e609b2f0565c61c7f57c04d085a837bbc104a866:
+[ERROR] [154/154]  can't find pair. Skip
+[ERROR] [154/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x022f20f4d822698e33a8bdc1e609b2f0565c61c7f57c04d085a837bbc104a866')
+[INFO] [154/200]  sleeping 2 s
+[ERROR] [154/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x022f20f4d822698e33a8bdc1e609b2f0565c61c7f57c04d085a837bbc104a866')
+[INFO] [154/200]  sleeping 1 s
+
+0x0353801cff3372763e036245669fd58bc9ce0dd4eec17ee9535318925337e230:
+[ERROR] [155/155]  can't find pair. Skip
+[ERROR] [155/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0353801cff3372763e036245669fd58bc9ce0dd4eec17ee9535318925337e230')
+[INFO] [155/200]  sleeping 2 s
+[ERROR] [155/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0353801cff3372763e036245669fd58bc9ce0dd4eec17ee9535318925337e230')
+[INFO] [155/200]  sleeping 2 s
+
+0x0749137a2ff6cc43c180b2b37c1da6292a257dc07d3a588e3820563c5bdcce79:
+[ERROR] [156/156]  can't find pair. Skip
+[ERROR] [156/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0749137a2ff6cc43c180b2b37c1da6292a257dc07d3a588e3820563c5bdcce79')
+[INFO] [156/200]  sleeping 1 s
+[ERROR] [156/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0749137a2ff6cc43c180b2b37c1da6292a257dc07d3a588e3820563c5bdcce79')
+[INFO] [156/200]  sleeping 2 s
+
+0x052711e4fe6f852b3c6dba1d4149412d769eb1b5e116ca6a6dce3d6330b6485d:
+[ERROR] [157/157]  can't find pair. Skip
+[ERROR] [157/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x052711e4fe6f852b3c6dba1d4149412d769eb1b5e116ca6a6dce3d6330b6485d')
+[INFO] [157/200]  sleeping 2 s
+[ERROR] [157/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x052711e4fe6f852b3c6dba1d4149412d769eb1b5e116ca6a6dce3d6330b6485d')
+[INFO] [157/200]  sleeping 2 s
+
+0x0499f2dea928ddf2347bdf3c71dead5d9c261efd3ace9e4424417f93b5e86b7a:
+[ERROR] [158/158]  can't find pair. Skip
+[ERROR] [158/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0499f2dea928ddf2347bdf3c71dead5d9c261efd3ace9e4424417f93b5e86b7a')
+[INFO] [158/200]  sleeping 2 s
+[ERROR] [158/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0499f2dea928ddf2347bdf3c71dead5d9c261efd3ace9e4424417f93b5e86b7a')
+[INFO] [158/200]  sleeping 1 s
+
+0x07c9ca5efa9ac18f0b821e407f0e64885385d8e871e115a99932066d84e0bf7d:
+[ERROR] [159/159]  can't find pair. Skip
+[ERROR] [159/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07c9ca5efa9ac18f0b821e407f0e64885385d8e871e115a99932066d84e0bf7d')
+[INFO] [159/200]  sleeping 2 s
+[ERROR] [159/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07c9ca5efa9ac18f0b821e407f0e64885385d8e871e115a99932066d84e0bf7d')
+[INFO] [159/200]  sleeping 2 s
+
+0x024b0b40000dee5072ba43f053682504224a6231b6b332a847a6b87184613c7e:
+[ERROR] [160/160]  can't find pair. Skip
+[ERROR] [160/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x024b0b40000dee5072ba43f053682504224a6231b6b332a847a6b87184613c7e')
+[INFO] [160/200]  sleeping 2 s
+[ERROR] [160/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x024b0b40000dee5072ba43f053682504224a6231b6b332a847a6b87184613c7e')
+[INFO] [160/200]  sleeping 1 s
+
+0x00cdb064bd4a4c73a905368b247222d98fd53317d55549eda1bc5e75da886186:
+[ERROR] [161/161]  can't find pair. Skip
+[ERROR] [161/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x00cdb064bd4a4c73a905368b247222d98fd53317d55549eda1bc5e75da886186')
+[INFO] [161/200]  sleeping 2 s
+[ERROR] [161/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x00cdb064bd4a4c73a905368b247222d98fd53317d55549eda1bc5e75da886186')
+[INFO] [161/200]  sleeping 2 s
+
+0x079bc1842b3b8f42b30b85c2a9bde61bfe3f1212e673db6b1e5bbbe23e47ec8c:
+[ERROR] [162/162]  can't find pair. Skip
+[ERROR] [162/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x079bc1842b3b8f42b30b85c2a9bde61bfe3f1212e673db6b1e5bbbe23e47ec8c')
+[INFO] [162/200]  sleeping 2 s
+[ERROR] [162/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x079bc1842b3b8f42b30b85c2a9bde61bfe3f1212e673db6b1e5bbbe23e47ec8c')
+[INFO] [162/200]  sleeping 2 s
+
+0x0520cd3a4161b1c5f34f5fe985e30e32c4140c49586f3ac121eec7c6cab14209:
+[ERROR] [163/163]  can't find pair. Skip
+[ERROR] [163/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0520cd3a4161b1c5f34f5fe985e30e32c4140c49586f3ac121eec7c6cab14209')
+[INFO] [163/200]  sleeping 1 s
+[ERROR] [163/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0520cd3a4161b1c5f34f5fe985e30e32c4140c49586f3ac121eec7c6cab14209')
+[INFO] [163/200]  sleeping 1 s
+
+0x01607c663cf2144e32c0db50802f1ea7485a7d6879799469f680678f7cdc035f:
+[ERROR] [164/164]  can't find pair. Skip
+[ERROR] [164/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01607c663cf2144e32c0db50802f1ea7485a7d6879799469f680678f7cdc035f')
+[INFO] [164/200]  sleeping 1 s
+[ERROR] [164/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01607c663cf2144e32c0db50802f1ea7485a7d6879799469f680678f7cdc035f')
+[INFO] [164/200]  sleeping 1 s
+
+0x017d223194f0266a50dd602861cb0f43eed285483c2c920b9409239327d778db:
+[ERROR] [165/165]  can't find pair. Skip
+[ERROR] [165/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x017d223194f0266a50dd602861cb0f43eed285483c2c920b9409239327d778db')
+[INFO] [165/200]  sleeping 2 s
+[ERROR] [165/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x017d223194f0266a50dd602861cb0f43eed285483c2c920b9409239327d778db')
+[INFO] [165/200]  sleeping 1 s
+
+0x0782fe346a1d6d3059de1f90b81fae09f4f80166fb3a22b48f9f6295972d5a27:
+[ERROR] [166/166]  can't find pair. Skip
+[ERROR] [166/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0782fe346a1d6d3059de1f90b81fae09f4f80166fb3a22b48f9f6295972d5a27')
+[INFO] [166/200]  sleeping 2 s
+[ERROR] [166/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0782fe346a1d6d3059de1f90b81fae09f4f80166fb3a22b48f9f6295972d5a27')
+[INFO] [166/200]  sleeping 2 s
+
+0x02186dc46da14401aad4be4dac0aa687b51505a282f77b92ec4e4692f66d54b0:
+[ERROR] [167/167]  can't find pair. Skip
+[ERROR] [167/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02186dc46da14401aad4be4dac0aa687b51505a282f77b92ec4e4692f66d54b0')
+[INFO] [167/200]  sleeping 1 s
+[ERROR] [167/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02186dc46da14401aad4be4dac0aa687b51505a282f77b92ec4e4692f66d54b0')
+[INFO] [167/200]  sleeping 2 s
+
+0x0125814e51a8fdceb51852cc7be929f541a693dc67a85ca2080b012f4a6227c5:
+[ERROR] [168/168]  can't find pair. Skip
+[ERROR] [168/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0125814e51a8fdceb51852cc7be929f541a693dc67a85ca2080b012f4a6227c5')
+[INFO] [168/200]  sleeping 1 s
+[ERROR] [168/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0125814e51a8fdceb51852cc7be929f541a693dc67a85ca2080b012f4a6227c5')
+[INFO] [168/200]  sleeping 2 s
+
+0x0548cd2ac5e66d99ecd06631187972fd069c1b28a0a48bc6f3921dd8c9e9906f:
+[ERROR] [169/169]  can't find pair. Skip
+[ERROR] [169/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0548cd2ac5e66d99ecd06631187972fd069c1b28a0a48bc6f3921dd8c9e9906f')
+[INFO] [169/200]  sleeping 2 s
+[ERROR] [169/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0548cd2ac5e66d99ecd06631187972fd069c1b28a0a48bc6f3921dd8c9e9906f')
+[INFO] [169/200]  sleeping 2 s
+
+0x022b04901ec9e6b5533198cecc0e9055ffb23a9c635b08a9fe293aa4e4630797:
+[ERROR] [170/170]  can't find pair. Skip
+[ERROR] [170/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x022b04901ec9e6b5533198cecc0e9055ffb23a9c635b08a9fe293aa4e4630797')
+[INFO] [170/200]  sleeping 1 s
+[ERROR] [170/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x022b04901ec9e6b5533198cecc0e9055ffb23a9c635b08a9fe293aa4e4630797')
+[INFO] [170/200]  sleeping 1 s
+
+0x007f9d6f0f898696e209cd073e1d1ed1f292f0749c2bd5f13351ca8805042e6b:
+[ERROR] [171/171]  can't find pair. Skip
+[ERROR] [171/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x007f9d6f0f898696e209cd073e1d1ed1f292f0749c2bd5f13351ca8805042e6b')
+[INFO] [171/200]  sleeping 1 s
+[ERROR] [171/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x007f9d6f0f898696e209cd073e1d1ed1f292f0749c2bd5f13351ca8805042e6b')
+[INFO] [171/200]  sleeping 1 s
+
+0x00b239f2fd3a84a9b54867f2a7b6e8cfb3b9f3866a1ef274a5f25c26b2521e5f:
+[ERROR] [172/172]  can't find pair. Skip
+[ERROR] [172/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x00b239f2fd3a84a9b54867f2a7b6e8cfb3b9f3866a1ef274a5f25c26b2521e5f')
+[INFO] [172/200]  sleeping 2 s
+[ERROR] [172/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x00b239f2fd3a84a9b54867f2a7b6e8cfb3b9f3866a1ef274a5f25c26b2521e5f')
+[INFO] [172/200]  sleeping 2 s
+
+0x0758b8b17ce105afa511233c8d27b79e7234b570515e8d9713ec26fc6c934efd:
+[ERROR] [173/173]  can't find pair. Skip
+[ERROR] [173/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0758b8b17ce105afa511233c8d27b79e7234b570515e8d9713ec26fc6c934efd')
+[INFO] [173/200]  sleeping 2 s
+[ERROR] [173/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0758b8b17ce105afa511233c8d27b79e7234b570515e8d9713ec26fc6c934efd')
+[INFO] [173/200]  sleeping 2 s
+
+0x07480b3285f3488dec042e785030244580826da6f48ba03722a92898fa75b886:
+[ERROR] [174/174]  can't find pair. Skip
+[ERROR] [174/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07480b3285f3488dec042e785030244580826da6f48ba03722a92898fa75b886')
+[INFO] [174/200]  sleeping 2 s
+[ERROR] [174/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07480b3285f3488dec042e785030244580826da6f48ba03722a92898fa75b886')
+[INFO] [174/200]  sleeping 2 s
+
+0x067632b7665abc2bb14ac87666313d39cc0c52102653117a969a4cc8cada8317:
+[ERROR] [175/175]  can't find pair. Skip
+[ERROR] [175/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x067632b7665abc2bb14ac87666313d39cc0c52102653117a969a4cc8cada8317')
+[INFO] [175/200]  sleeping 1 s
+[ERROR] [175/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x067632b7665abc2bb14ac87666313d39cc0c52102653117a969a4cc8cada8317')
+[INFO] [175/200]  sleeping 2 s
+
+0x01297bcda1b9c3c17bcd925a30b0be87658a970b564695423603cad011aad6ed:
+[ERROR] [176/176]  can't find pair. Skip
+[ERROR] [176/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01297bcda1b9c3c17bcd925a30b0be87658a970b564695423603cad011aad6ed')
+[INFO] [176/200]  sleeping 2 s
+[ERROR] [176/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01297bcda1b9c3c17bcd925a30b0be87658a970b564695423603cad011aad6ed')
+[INFO] [176/200]  sleeping 1 s
+
+0x007a52b808c5fa5eeb156d0005b94fa4eb261dd039d3abba9c3a00c0f794bc84:
+[ERROR] [177/177]  can't find pair. Skip
+[ERROR] [177/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x007a52b808c5fa5eeb156d0005b94fa4eb261dd039d3abba9c3a00c0f794bc84')
+[INFO] [177/200]  sleeping 1 s
+[ERROR] [177/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x007a52b808c5fa5eeb156d0005b94fa4eb261dd039d3abba9c3a00c0f794bc84')
+[INFO] [177/200]  sleeping 2 s
+
+0x014e87e2960928668e3385faa3ebd57feb69f1808b8dfb2be6c071d02ca03091:
+[ERROR] [178/178]  can't find pair. Skip
+[ERROR] [178/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x014e87e2960928668e3385faa3ebd57feb69f1808b8dfb2be6c071d02ca03091')
+[INFO] [178/200]  sleeping 1 s
+[ERROR] [178/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x014e87e2960928668e3385faa3ebd57feb69f1808b8dfb2be6c071d02ca03091')
+[INFO] [178/200]  sleeping 2 s
+
+0x01a1bb2438e25ae94cb2d3013cd1eed6be990aa5a631f0e25a3c5cc8af92e433:
+[ERROR] [179/179]  can't find pair. Skip
+[ERROR] [179/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01a1bb2438e25ae94cb2d3013cd1eed6be990aa5a631f0e25a3c5cc8af92e433')
+[INFO] [179/200]  sleeping 1 s
+[ERROR] [179/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x01a1bb2438e25ae94cb2d3013cd1eed6be990aa5a631f0e25a3c5cc8af92e433')
+[INFO] [179/200]  sleeping 1 s
+
+0x05edd60f250bd6bec80f520504aeebed310f657221649a80fa2c90fedec62a67:
+[ERROR] [180/180]  can't find pair. Skip
+[ERROR] [180/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x05edd60f250bd6bec80f520504aeebed310f657221649a80fa2c90fedec62a67')
+[INFO] [180/200]  sleeping 2 s
+[ERROR] [180/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x05edd60f250bd6bec80f520504aeebed310f657221649a80fa2c90fedec62a67')
+[INFO] [180/200]  sleeping 2 s
+
+0x04e4532a541a1c497a5dda653b9296cb8ec9b14309514196cbaec3a33dbbbf5a:
+[ERROR] [181/181]  can't find pair. Skip
+[ERROR] [181/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04e4532a541a1c497a5dda653b9296cb8ec9b14309514196cbaec3a33dbbbf5a')
+[INFO] [181/200]  sleeping 1 s
+[ERROR] [181/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04e4532a541a1c497a5dda653b9296cb8ec9b14309514196cbaec3a33dbbbf5a')
+[INFO] [181/200]  sleeping 2 s
+
+0x004a7db8a324082c6a72bde8e876537c833b32c2b14f55d528f16e851dfc92b0:
+[ERROR] [182/182]  can't find pair. Skip
+[ERROR] [182/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x004a7db8a324082c6a72bde8e876537c833b32c2b14f55d528f16e851dfc92b0')
+[INFO] [182/200]  sleeping 1 s
+[ERROR] [182/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x004a7db8a324082c6a72bde8e876537c833b32c2b14f55d528f16e851dfc92b0')
+[INFO] [182/200]  sleeping 2 s
+
+0x015f29cc3607e8d2403f9ea7cdc373b9726bf0d3dbfc20ce364ddc088b54c55f:
+[ERROR] [183/183]  can't find pair. Skip
+[ERROR] [183/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x015f29cc3607e8d2403f9ea7cdc373b9726bf0d3dbfc20ce364ddc088b54c55f')
+[INFO] [183/200]  sleeping 1 s
+[ERROR] [183/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x015f29cc3607e8d2403f9ea7cdc373b9726bf0d3dbfc20ce364ddc088b54c55f')
+[INFO] [183/200]  sleeping 2 s
+
+0x032ff0320ea31a80920462ab05f26cb64a4bf0b5db5b2d19742a809a9960610a:
+[ERROR] [184/184]  can't find pair. Skip
+[ERROR] [184/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x032ff0320ea31a80920462ab05f26cb64a4bf0b5db5b2d19742a809a9960610a')
+[INFO] [184/200]  sleeping 2 s
+[ERROR] [184/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x032ff0320ea31a80920462ab05f26cb64a4bf0b5db5b2d19742a809a9960610a')
+[INFO] [184/200]  sleeping 2 s
+
+0x04bf0a515f612f0eed3156f7889d9da79e6718efe3ae52bc4fa68f4218c4d1a0:
+[ERROR] [185/185]  can't find pair. Skip
+[ERROR] [185/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04bf0a515f612f0eed3156f7889d9da79e6718efe3ae52bc4fa68f4218c4d1a0')
+[INFO] [185/200]  sleeping 1 s
+[ERROR] [185/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x04bf0a515f612f0eed3156f7889d9da79e6718efe3ae52bc4fa68f4218c4d1a0')
+[INFO] [185/200]  sleeping 1 s
+
+0x0697aed3d2508f12c0bbf1b602e322368a39284e4a0b256914e374e90498a963:
+[ERROR] [186/186]  can't find pair. Skip
+[ERROR] [186/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0697aed3d2508f12c0bbf1b602e322368a39284e4a0b256914e374e90498a963')
+[INFO] [186/200]  sleeping 1 s
+[ERROR] [186/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0697aed3d2508f12c0bbf1b602e322368a39284e4a0b256914e374e90498a963')
+[INFO] [186/200]  sleeping 1 s
+
+0x05687a49ce9257dcbe0986822b518154f8e02b628a0d4cb85e64f107fdbac1d8:
+[ERROR] [187/187]  can't find pair. Skip
+[ERROR] [187/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x05687a49ce9257dcbe0986822b518154f8e02b628a0d4cb85e64f107fdbac1d8')
+[INFO] [187/200]  sleeping 2 s
+[ERROR] [187/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x05687a49ce9257dcbe0986822b518154f8e02b628a0d4cb85e64f107fdbac1d8')
+[INFO] [187/200]  sleeping 1 s
+
+0x075dd0c30c8134362a898bc3b239941df185f56a815a1f03ad019485ed1abb64:
+[ERROR] [188/188]  can't find pair. Skip
+[ERROR] [188/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x075dd0c30c8134362a898bc3b239941df185f56a815a1f03ad019485ed1abb64')
+[INFO] [188/200]  sleeping 2 s
+[ERROR] [188/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x075dd0c30c8134362a898bc3b239941df185f56a815a1f03ad019485ed1abb64')
+[INFO] [188/200]  sleeping 2 s
+
+0x0237327ca44bfc9465b38c65209c3557bc2001180c4917c78963b9bbfb2ebef6:
+[ERROR] [189/189]  can't find pair. Skip
+[ERROR] [189/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0237327ca44bfc9465b38c65209c3557bc2001180c4917c78963b9bbfb2ebef6')
+[INFO] [189/200]  sleeping 1 s
+[ERROR] [189/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x0237327ca44bfc9465b38c65209c3557bc2001180c4917c78963b9bbfb2ebef6')
+[INFO] [189/200]  sleeping 1 s
+
+0x02253c2af1d2640416e237546a6e53e6d49a86ff8a38bd3c20ad61ddc26e626b:
+[ERROR] [190/190]  can't find pair. Skip
+[ERROR] [190/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02253c2af1d2640416e237546a6e53e6d49a86ff8a38bd3c20ad61ddc26e626b')
+[INFO] [190/200]  sleeping 1 s
+[ERROR] [190/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02253c2af1d2640416e237546a6e53e6d49a86ff8a38bd3c20ad61ddc26e626b')
+[INFO] [190/200]  sleeping 1 s
+
+0x015d0aa917c50584a2430562835426be09ac2a38774a72b40f47c6f034ca8b24:
+[ERROR] [191/191]  can't find pair. Skip
+[ERROR] [191/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x015d0aa917c50584a2430562835426be09ac2a38774a72b40f47c6f034ca8b24')
+[INFO] [191/200]  sleeping 2 s
+[ERROR] [191/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x015d0aa917c50584a2430562835426be09ac2a38774a72b40f47c6f034ca8b24')
+[INFO] [191/200]  sleeping 2 s
+
+0x034a74591c3aa9324ea139941786bc69a84208d0ee03105f3f2c7907b3e9d085:
+[ERROR] [192/192]  can't find pair. Skip
+[ERROR] [192/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x034a74591c3aa9324ea139941786bc69a84208d0ee03105f3f2c7907b3e9d085')
+[INFO] [192/200]  sleeping 1 s
+[ERROR] [192/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x034a74591c3aa9324ea139941786bc69a84208d0ee03105f3f2c7907b3e9d085')
+[INFO] [192/200]  sleeping 1 s
+
+0x07e461b05bc74ca123023c737d4faaa976a27148f7b28ad24e1a40872e733060:
+[ERROR] [193/193]  can't find pair. Skip
+[ERROR] [193/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07e461b05bc74ca123023c737d4faaa976a27148f7b28ad24e1a40872e733060')
+[INFO] [193/200]  sleeping 2 s
+[ERROR] [193/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07e461b05bc74ca123023c737d4faaa976a27148f7b28ad24e1a40872e733060')
+[INFO] [193/200]  sleeping 2 s
+
+0x069f779c04723dcd4f271c0cf59ccc48a258e86df1812baeb6d1e5b58b79973c:
+[ERROR] [194/194]  can't find pair. Skip
+[ERROR] [194/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x069f779c04723dcd4f271c0cf59ccc48a258e86df1812baeb6d1e5b58b79973c')
+[INFO] [194/200]  sleeping 2 s
+[ERROR] [194/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x069f779c04723dcd4f271c0cf59ccc48a258e86df1812baeb6d1e5b58b79973c')
+[INFO] [194/200]  sleeping 2 s
+
+0x02e3f79cbcb8803231cb354af3015aae36207769ffe8c86b76c45ca34fda5ffa:
+[ERROR] [195/195]  can't find pair. Skip
+[ERROR] [195/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02e3f79cbcb8803231cb354af3015aae36207769ffe8c86b76c45ca34fda5ffa')
+[INFO] [195/200]  sleeping 2 s
+[ERROR] [195/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02e3f79cbcb8803231cb354af3015aae36207769ffe8c86b76c45ca34fda5ffa')
+[INFO] [195/200]  sleeping 1 s
+
+0x07b05599957b1ad8e0a072306dc91bbe5925831cb51286fe76191ad7ff3b7d60:
+[ERROR] [196/196]  can't find pair. Skip
+[ERROR] [196/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07b05599957b1ad8e0a072306dc91bbe5925831cb51286fe76191ad7ff3b7d60')
+[INFO] [196/200]  sleeping 2 s
+[ERROR] [196/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x07b05599957b1ad8e0a072306dc91bbe5925831cb51286fe76191ad7ff3b7d60')
+[INFO] [196/200]  sleeping 2 s
+
+0x049eaf7b705fba2408c6a961db20cc08e08c404264f399c7cb01d7c79d19e430:
+[ERROR] [197/197]  can't find pair. Skip
+[ERROR] [197/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x049eaf7b705fba2408c6a961db20cc08e08c404264f399c7cb01d7c79d19e430')
+[INFO] [197/200]  sleeping 1 s
+[ERROR] [197/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x049eaf7b705fba2408c6a961db20cc08e08c404264f399c7cb01d7c79d19e430')
+[INFO] [197/200]  sleeping 2 s
+
+0x012dd43fc94f46f58978499bf4675e6997468b635d496c8a85054380025a953c:
+[ERROR] [198/198]  can't find pair. Skip
+[ERROR] [198/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x012dd43fc94f46f58978499bf4675e6997468b635d496c8a85054380025a953c')
+[INFO] [198/200]  sleeping 2 s
+[ERROR] [198/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x012dd43fc94f46f58978499bf4675e6997468b635d496c8a85054380025a953c')
+[INFO] [198/200]  sleeping 1 s
+
+0x056ca289b4457160c3cfdacbe71a8156afed40d1ce789d79cdf86d62ce08dafe:
+[ERROR] [199/199]  can't find pair. Skip
+[ERROR] [199/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x056ca289b4457160c3cfdacbe71a8156afed40d1ce789d79cdf86d62ce08dafe')
+[INFO] [199/200]  sleeping 1 s
+[ERROR] [199/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x056ca289b4457160c3cfdacbe71a8156afed40d1ce789d79cdf86d62ce08dafe')
+[INFO] [199/200]  sleeping 1 s
+
+0x02b78eda1dd762f9594bf27444c5d637feaeb715a33a40ea7351e58351f7742d:
+[ERROR] [200/200]  can't find pair. Skip
+[ERROR] [200/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02b78eda1dd762f9594bf27444c5d637feaeb715a33a40ea7351e58351f7742d')
+[INFO] [200/200]  sleeping 2 s
+[ERROR] [200/200]  got error while trying to get proof: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://provisions.starknet.io/api/starknet/get_eligibility?identity=0x02b78eda1dd762f9594bf27444c5d637feaeb715a33a40ea7351e58351f7742d')
+[INFO] [200/200]  sleeping 2 s
+
